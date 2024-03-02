@@ -1,14 +1,13 @@
-Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch
+Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Ich bewundere den Reifegrad strategischen Denkens, den Stronghold dem Spieler abverlangt, und noch mehr den Karteneditor, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
 
-Stronghold is not just a game. It is one of the best and most popular strategy games of all time. I appreciate the depth of strategic thinking Stronghold requires from the player, and even more, the world editor, which allows you to design a map to the greatest level of detail and reflect nature's beauty in it.
+In Anerkennung der großartigen Werke, die viele Kartenersteller schon der Stronghold-Community übergeben haben, habe ich insgesamt 70 Missionen kreiert, in welchen das mittelalterliche Deutschland erobert werden kann. Meine Absicht dabei war, den Spielern einen Einblick in die Schönheit meines Heimatlandes Deutschland zu gewähren und die Vielfalt von Deutschlands Burgen zu erleben. 
 
-Acknowledging the great work many authors have contributed to the Stronghold Community, I created a set of 70 missions to conquer medieval Germany. My aim is to give you a Stronghold experience that reflects the beauty of my home country Germany and the diversity of its castles.
+Die Komplexität dieses Projekts nahm mit der Zeit zu. Anfänglich wollte ich 20 Missionen erstellen, doch dann kamen immer weitere Ideen dazu, die ich dann in die Kampagne einarbeiten wollte. Die Arbeit an diesem Projekt hat sich über mehere Jahre hingezogen, mit Pausen zwischendrin. 
 
-The complexity of this project increased with time. Initially wanting to build 20 missions, I continued to receive more ideas and felt the need to express them in the campaign. Work on this project took me a few years, with breaks included.
+Die Missionen gliedern sich in 5 Unterkampagnen und beinhalten dutzende naturgetreue Karten und viele originale deutsche Burgen, die gemäß ihres originalen Grundrisses in der Karte nachempfunden wurden. Die Missionen beinhalten auch fiktive Landschaften, die Deutschlands natürliche Szenerie abbilden.
 
-The missions have been grouped into five campaigns and feature dozens of real-life maps, including many original German castles that are based on their original footprint/construction plan. The missions also include fictional maps reflecting Germany's scenery.
+Auf "Sehr schwer" sind die meisten meiner Missionen schwierig zu bewältigen, aber schaffbar. Wie im Mittelalter setzt der Sieg oft voraus, dass man seine Burg klug baut und verteidigt.
 
-At 'very hard' settings, most of my missions are tough but feasible. Like in the Middle Ages, you will need to build and defend your castle wisely.
 ![1](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/95630127-420d-4b8f-b0b4-a6b67cdfd7e9)
 ![2](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/298fc264-825f-4f8d-b2ee-5c0d05f576bd)
 ![3](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/8743c4fd-cbbf-40ab-bfdb-25c4768c688a)
