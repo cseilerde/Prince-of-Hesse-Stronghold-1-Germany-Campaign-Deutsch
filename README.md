@@ -348,7 +348,7 @@ _**Kampagne IV - Mission 57 - Scheinfriede**_
 
 Missionstext folgt in Kürze
 
-![57](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/1db0c9b2-85bc-4680-ac59-89ecd9d9fe2f)
+![57](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/debafcfe-2584-47b1-be5a-0bf4a1ee4bfa)
 
 _**Kampagne IV - Mission 58 - Der verhängnisvolle Wald**_
 
