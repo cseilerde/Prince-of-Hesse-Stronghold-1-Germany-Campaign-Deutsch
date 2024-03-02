@@ -8,7 +8,7 @@ Die Missionen gliedern sich in 5 Unterkampagnen und beinhalten dutzende naturget
 
 Auf "Sehr schwer" sind die meisten meiner Missionen schwierig zu bewältigen, aber schaffbar. Wie im Mittelalter setzt der Sieg oft voraus, dass man seine Burg klug baut und verteidigt.
 
-Kampagne I - Mission 01 - Flucht in die Berge
+_**Kampagne I - Mission 01 - Flucht in die Berge**_
 
 Missionstext folgt in Kürze
 
