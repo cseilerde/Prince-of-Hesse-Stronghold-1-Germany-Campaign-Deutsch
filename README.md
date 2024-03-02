@@ -8,6 +8,10 @@ Die Missionen gliedern sich in 5 Unterkampagnen und beinhalten dutzende naturget
 
 Auf "Sehr schwer" sind die meisten meiner Missionen schwierig zu bewältigen, aber schaffbar. Wie im Mittelalter setzt der Sieg oft voraus, dass man seine Burg klug baut und verteidigt.
 
+Kampagne I - Mission 01 - Flucht in die Berge
+
+Missionstext folgt in Kürze
+
 ![1](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/95630127-420d-4b8f-b0b4-a6b67cdfd7e9)
 ![2](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/298fc264-825f-4f8d-b2ee-5c0d05f576bd)
 ![3](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/8743c4fd-cbbf-40ab-bfdb-25c4768c688a)
