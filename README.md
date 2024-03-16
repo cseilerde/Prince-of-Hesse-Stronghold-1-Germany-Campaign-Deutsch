@@ -16,25 +16,25 @@ Watzmann, Januar 1275. Wie ein sterbender Baum ist die alte Ordnung des Reichs z
 
 _**Kampagne I - Mission 02 - Der Pass der zwei Türme**_
 
-Missionstext folgt in Kürze
+Ein Alpenpass, März 1275. Was nicht hätte geschehen dürfen, geschah: Ihr wurdet von einem Spähtrupp von Herzog Beauregard, der wegen seiner Durchtriebenheit auch "die Schlange" genannt wird, entdeckt. Zwar konntet Ihr den Trupp unschädlich machen, doch müsst Ihr Euer Lager nun eilig verlassen. Ihr gelangt an einen Bergpass mit zwei alten Wachtürmen. Kaum habt Ihr die Kuppe erreicht, seht Ihr mit Entsetzen einen Spähtrupp der Schlange auf Euch zukommen, der vor einem Wolfsrudel zu fliehen scheint. Ihr müsst sofort Schutz suchen, vielleicht auf einem der Türme?
 
 ![2](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/298fc264-825f-4f8d-b2ee-5c0d05f576bd)
 
 _**Kampagne I - Mission 03 - Der Weg ist versperrt**_
 
-Missionstext folgt in Kürze
+Schlucht in den Alpen, März 1275. Die Wölfe lassen Euch keine Ruhe. Nach dem Gemetzel am Pass geratet Ihr in eine Schlucht, aus der Euch das Wolfsgeheul entgegenschallt. Ihr könnt nicht umkehren, da Ihr vermutet, dass man Euch nachstellt. Setzt dem Treiben der Wölfe ein Ende, damit Eure müden Männer Rast finden. Auf dem Hügel gibt es ein kleines Fort, dessen Bewohner sich offenbar vor den Wölfen verbarrikadiert haben. Vielleicht findet Ihr dort zeitweise Schutz.
 
 ![3](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/8743c4fd-cbbf-40ab-bfdb-25c4768c688a)
 
 _**Kampagne I - Mission 04 - Die Moorklamm**_
 
-Missionstext folgt in Kürze
+Schlucht in den nördlichen Alpen, März 1275. Ihr brecht Euer Lager ab und macht Euch wieder auf den Wge weiter nach Norden. Als Ihr an eine Engstelle kommt, hört Ihr hinter dem Berghügel lautes Geschrei und vermutet, dass die dortige Siedlung gerade von Gesetzlosen oder von Männern der Schlange überfallen wird. Ihr beschließt, schnell nach dem Rechten zu sehen und den Feind aus diesem Landstrich zu vertreiben. Dies müsst Ihr aber bewerkstelligen, bevor er Verstärkung senden kann, da Ihr sonst allzu bald in der Unterzahl sein werdet. Ergiebige Regenfälle haben die Schlucht vor Euch in einen Sumpf verwandelt. 
 
 ![4](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0b9532ff-5194-4fe9-b57c-4f7b0856cfdc)
 
 _**Kampagne I - Mission 05 - Ein neuer Stützpunkt**_
 
-Missionstext folgt in Kürze
+Nach einem weiteren Marsch voller Strapazen findet Ihr im langsam ausklingenden Winter in den Chiemgauer Alpen eine Jagdhütte in günstigem Terrain. Zieht Eure Nachhut von Süden zu Eurem neu aufgeschlagenen Lager. Hortet dann weitere Vorräte und produziert leichte Waffen. Da Eurem Hauptfeind, Herzog Beauregard, nun nun bewusst ist, dass hier im Süden aufständische Aktivitäten stattfinden, müsst Ihr Euch auf Gegenwehr vorbereiten.
 
 ![5](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5e30e98e-62e7-43e0-8b81-98436091466f)
 
