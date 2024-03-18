@@ -40,31 +40,31 @@ Nach einem weiteren Marsch voller Strapazen findet Ihr im langsam ausklingenden 
 
 _**Kampagne I - Mission 06 - Die zwei Flüsse**_
 
-Missionstext folgt in Kürze
+Fluss in den Alpen, Mai 1275. Die Bauern der REgion schließen sich Euch in größerer Zahl an. Gestärkt zieht Ihr weiter nach Norden. Man berichtet Euch, dass sich auf der anderen Seite eines nahegelegenen Flusses ein Banditenlager befinde, das mit der Schlange kooperiere. Ihr zögert nicht lange und entscheidet Euch, den Aktivitäten dieser Gesetzlosen einen Riegel vorzuschieben.
 
 ![6](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/52cd91d0-2b34-4296-8fd2-4de7f61b576e)
 
 _**Kampagne I - Mission 07 - Der Turm auf der Klippe**_
 
-Missionstext folgt in Kürze
+Alpen, April 1275. Das Banditenlager eignet sich nicht zum Verweilen. Ihr zieht daher weiter und findet tief in den Bergen eine zerklüftete Talgegend, in der sich ein kleines Lager von Truppen der Schlange befindet, welches von einer Palisade umgeben ist und günstig auf einer Klippe liegt. Dereinst führte eine Brücke über den wilden FLuss, von der aber nur noch Ruinen übrig sind. Such Euch einen Weg durch die Wildnis zum Lager und erobert es. Bleibt dann dort für eine Weile. Die Schlange wird von Eurer Aktion mit Sicherheit Wind bekommen, produziert daher erneut leichte Waffen und haltet das Fort.
 
 ![7](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/235e6153-dd9e-473d-bb29-0ba06e2af829)
 
 _**Kampagne I - Mission 08 - Bayerische Äpfel**_
 
-Missionstext folgt in Kürze
+Chiemsee, Juni 1275. Ihr braucht mehr Ressourcen und Verpflegung, daher entscheidet Ihr Euch, in die bayerischen Ebenen zu ziehen. Euer Aufbegehren hat sich lokal herumgesprochen. Einige Apfelbauern am Chiemsee unterstützen Euren Widerstand. Sie bieten Euch an, auf einigen ihrer Apfelplantagen, die abgeschirmt hinter einem Moorgebiet liegen, Vorräte zu sammeln. Da Ihr momentan keine Alternative habt, nehmt Ihr das Angebot an und marschiert des nachts durch das Territorium der Schlange an den Chiemsee. Verschanzt Euch dort und holzt das Dickicht für mehr Weideland ab. In der Nähe gibt es ein kleines Dorf von Bauern der Schlange. Um unerkannt zu bleiben, kleidet Ihr Euch daher in den Farben der Schlange - ob es hilft? Hilfreich wird sicherlich die kleine Reitertruppe sein, die ein guter alter Freund entsandt hat. Sie sollte in Kürze eintreffen. 
 
 ![8](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/05bfd733-27ad-46cb-87af-edc4674956b7)
 
 _**Kampagne I - Mission 09 - Rettung in letzter Sekunde**_
 
-Missionstext folgt in Kürze
+Nahe Schongau an der Lech, September 1275. Da die Angriffe der Schlange am Chiemsee zu häufig werden, wollt Ihr Euch wieder in Bewegung setzen. Ihr ruft Eure Berater zusammen und diskutiert die Marschroute. Man empfiehlt, in den ausgedehnten Waldgebieten des Schwarzwalds, etwa einen Wochenmarsch entfernt, Schutz zu suchen. Ihr stimmt dem zu und macht Euch auf den Weg. Nach drei Tagesmärschen überquert Ihr den Lech. Plötzlich bemerkt Ihr einen schwer bewaffneten schwarzen Reiter, der Euch nachstellt und aller Wahrscheinlichkeit von der Schlange gesendet wurde. In Panik rennen Eure Männer zum Fluss zurück, nur um das Getrappel weiterer Pferdehufe zu vernehmen. "Über den FLuss zum Fort!", ruft Ihr Euren verängstigten Kumpanen zu. Wenn Ihr dort Einlass findet, setzt Euch dort fest und befestigt die Anlage, am besten durch Verstärkung der Wälle. Ihr solltet zudem alle verfügbaren Männer zum Ausgraben eines möglichst breiten Burggrabens entsenden.
 
 ![9](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/7ada9ca4-23cb-4d83-9191-b5abe537546a)
 
 _**Kampagne I - Mission 10 - Spiel mit dem Feuer**_
 
-Missionstext folgt in Kürze
+Schloss Lichtenstein, Februar 1276. Obwohl Ihr es schwer damit hattet, die Angriffe der Schlange auf das Fort bei Schongau abzuwehren, habt Ihr neuen Zustrom von Bauern aus der Umgebung erfahren. Obwohl Eure Berater Euch davon abraten, fühlt Ihr Euch daher dazu ermuntert, weiter nach Norden ins Zentrum des Territoriums der Schlange vorzustoßen. Ihr werdet in Schloss Lichtenstein Stellung beziehen, dessen Burgherr Hilfe gebrauchen kann, da sein Schloss neulich von der Schlange verwüstet wurde. Auf dem Weg dorthin wollt Ihr aber zunächst einen Mönch treffen, der Euch Einsichten in die Pläne der Schlange versprochen hat. Das geheime Treffen soll bei einer kleinen Waldkapelle stattfinden. Eure Haupttruppe zieht derweil in die Burg ein, um dort bei den anfallenden Arbeiten ordentlich anzupacken. Leider fehlen Euch derzeit noch die Fachkenntnisse, um die Burg im großen Stil auszubauen. Vielleicht könnt Ihr die Trümmer der Festung noch als Baumaterial benutzen.
 
 ![10](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/84a3159f-e897-4d4b-9abd-70b9d3947a74)
 
