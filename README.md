@@ -70,43 +70,43 @@ Schloss Lichtenstein, Februar 1276. Obwohl Ihr es schwer damit hattet, die Angri
 
 _**Kampagne I - Mission 11 - Ein neuer Freund**_
 
-Missionstext folgt in Kürze
+Sigmaringen, Juni 1276. Der Mönch bei Lichtenstein war ein Betrüger und hatte Euch in einen Hinterhalt gelockt. Schlimmer noch: Die Schlange hat damit begonnen, Eure Burg weiträumig zu umzingeln und Eure Versorgungswege abzuschneiden. Ihr müsst daher abrücken und zieht erneut weiter nach Westen Richtung Schwarzwald. Dieser liegt im Territorium von Herzog de Puce, der wegen seiner Niederträchtigkeit gemeinhin auch als "die Ratte" bekannt ist. Auf halbem Wege begegnet Euch ein Trupp von Reitern des Fürsten von Sigmaringen. Diese sind in eiligem Ritt zur des Fürsten fast fertig errichteten Burg auf einer Anhöhe an der Donau. Die Schlange, so heißt es, wolle die Fertigstellung mit allen Mitteln vereiteln. Erneut gilt: Eine Hand wäscht die andere. Ihr werdet dem Fürsten dabei helfen, seine Burg zu vollenden und zu verteidigen, und er wird Euch Quartier gewähren und in Bau- und Schmiedekunst unterrichten. Sorgt für Ruhe in der Grafschaft und für eine gut gefüllte Burgkasse.
 
 ![11](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/c1e1a65c-2110-49c0-ab41-38d92d9737d0)
 
 _**Kampagne I - Mission 12 - Der R(h)einfall**_
 
-Missionstext folgt in Kürze
+Schaffhausen, Oktober 1276. Ihr habt den Fürsten von Sigmaringen als Freund gewonnen und ihn bei der Sicherung seiner Burg tatkräftig unterstützt. Nachdem die Schlange sich anderen Problemen zugewendet hat, zieht Ihr weiter nach Westen und erreicht die Ausläufer des Schwarzwalds in De Puces Ländereien. Dieser ist längst von Eurem Aufbegehren unterrichtet worden. Obwohl de Puce militärisch der Schlange unterlegen ist, ist Eure Weiterreise daher nicht ungefährlich. Auf dem Anwesen eines Burgherrn am imposanten Rheinfall macht Ihr Rast. Doch am nächsten Morgen erwacht Ihr bei lautem Geschrei, und man teilt Euch mit, Euer Gastgeber habe sich abgesetzt und Euch an De Puce verraten. Ein Reinfall! An Flucht ist nicht zu denken, der tosende Fluss im Rücken versperrt Euch den Weg. Dass der Bierkeller der Burg gut gefüllt ist, ist in dieser ausweglosen Lage kaum mehr als ein schwacher Trost. Verteidigt Euch um jeden Preis, sonst ist Eure Bewegung hier am Ende.
 
 ![12](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/d0c87d39-5dff-497b-8bed-d965ad81c0bb)
 
 _**Kampagne I - Mission 13 - Tief im Schwarzwald**_
 
-Missionstext folgt in Kürze
+Schluchsee, Oktober 1276. Nach dem Hauptangriff der Ratte nutzt Ihr in der Nacht die Gelegenheit und flieht unbemerkt und in Eile in die Tiefen des Schwarzwalds. Nach einem Tagesmarsch finde Eure Kundschafter auf einem Berg nahe einem der großen Schwarzwaldseen eine verlassene Palisadenburg. Hier, fernab jeglicher Handelsposten, werdet Ihr Euer Lager aufschlagen und sofort die Produktion weiterer schwerer Waffen beginnen. Dies sollte es Euch ermöglichen, Eure militärtechnische Überlegenheit gegenüber der Ratte zu sichern. Überhaupt erscheint es aktuell sinnvoller, sich mit der Ratte anzulegen und die Auseinandersetzung mit der Schlange vorerst zu meiden.
 
 ![13](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/c20ecaa0-d0ae-43e1-bb4a-1c7596143f75)
 
 _**Kampagne I - Mission 14 - Inferno**_
 
-Missionstext folgt in Kürze
+Schwarzwälder Westhang, Juni 1277. Die Wucht der Angriffe der Ratte in diesem entlegenen Landstrich hat Euch überrascht. Ihr verlasst daher den Schluchsee und zieht weiter nach Nordwesten, um eine geeignetere Gegend für eine besser befestigte Basis zu finden. Doch auch De Puce scheint von Eurer Stärke beeindruckt zu sein. Euch erreicht ein Bote, der Euch ausrichtet, De Puce schlage einen Waffenstillstand vor. Ein Treffen solle in einem Camp auf der anderen Flussseite stattfinden, um Details zu besprechen. Ihr willigt zögernd ein und bewegt Euch in Richtung des Treffpunkts. Plötzlich riecht Ihr Rauch. Ein Waldbrand? Schlagt Euch irgendwie durch und rettet Eure Haut!
 
 ![14](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/f147f9f9-3b2a-4854-b6f4-46d5daadfa15)
 
 _**Kampagne I - Mission 15 - Streit unter Nachbarn**_
 
-Missionstext folgt in Kürze
+Chateau de Lützelbourg/Chateau Rathsamhausen, Juli 1277. Dass De Puce Euch im Schwarzwald im lodernden FEuer rösten wollte, werdet Ihr ihm nicht vergessen. Mit ihm weedet Ihr nicht noch einmal verhandeln. Stattdessen marschiert Ihr ein paar Tagesmärsche nach Norden und hört von einer günstig gelegenen Doppelburg auf der anderen Rheinseite, die De Puce gehöre. Als Ihr die Belagerung von Chateau de Lützelbourg, der östlichen der beiden, beginnt, ist dessen Besatzung von Eurer Anwesenheit überrascht und verteidigt sich schlecht. Daher gelingt es Euch schon kurz darauf, in die Burg einzumarschieren. Verbarrikadiert Euch hier und nehmt auch die andere (besser bewachte) Burg ein. Sorgt dafür, dass der Dauerbeschuss aus letzterer schnellstmöglich aufhört. Noch dauert der Kampf in der Burg an, da erhaltet Ihr eine Hiobsbotschaft: Im Tal habe sich eine große Truppe von Soldaten des Frankenreichs versammelt, die De Puce zu Hilfe gekommen seien, um Euch die Burg wieder abzunehmen.
 
 ![15](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/647e5c82-a283-484a-b0ad-a783d361dbfc)
 
 _**Kampagne I - Mission 16 - Bei Nacht und Nebel**_
 
-Missionstext folgt in Kürze
+Altleiningen/Pfalz, November 1277. Die Kämpfe bei Lützelbourg/Rathsamhausen waren heftig, doch Ihr lasst nicht locker. Euch erreicht die Nachricht, dass die Ratte eine weitere Burg ein paar Tagesmärsche weiter nördlich in der Pfalz besitze, deren Burgherr seinen Geburtstag in Kürze mit einem rauschenden Fest feiern werde. In der Annahme, dass auch die Wachmannschaft dem strömenden Bier zugeneigt sein wird, tretet Ihr eilig den Marsch an. Ein paar Tage später erreicht Ihr gegen Abend das Tal nahe der Burg, durch das noch immer Festmusik schallt. Doch plötzlich erscheint ein Leuchtfeuer auf einem Hügel. Wurder Ihr entdeckt? Beobachtet zuerst die Lage, bis die Luft rein ist. Greift dann an und knöpft Euch zu allererst den Burgherrn vor. Verschont die Besatzung. Vielleicht sinkt den angetrunkenen Männern dann der Mut und sie lassen sich davon überzeugen, zu Euch überzutreten. Haltet dann die Burg, solange es opportun erscheint. 
 
 ![16](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0f6682ee-3b2d-4dff-ab7a-788dafaca6e5)
 
 _**Kampagne I - Mission 17 - Die alte Ruine**_
 
-Missionstext folgt in Kürze
+Burgenmassiv Altdahn, November 1277. Bevor Ihr weiter in das Kernterritorium der Ratte vorstoßt, braucht Ihr mehr Truppen und Waffen, und vor allem eine starke Basis. Ihr werdet Euch eine mächtige Burg als dauerhaften Stützpunkt errichten und Finanzmittel schöpfen. Etwas weiter im Süden gibt es bei Altdahn ein verlassenes Burgenmassiv, welches sich hierzu gut eignet. Ihr habt jetzt einige Baufachleute angeheuert, die Euch beim Burgenbau behilflich sein werden. Zudem habt Ihr aus den vergangenen Schlachten Waffen erbeutet, darunter Morgensterne und Lederrüstungen, die Ihr nun selbst fachmännisch produzieren werdet. Seid vorsichtig: De Puce wird hier sicherlich bald auf den Plan treten. Es heißt, auch Truppen der Schlange seien in dieser Gegend, obwohl letztere zu De Puces Territorium gehört, neulich angetroffen worden. Auf dem Weg zur Burg schließen sich Euch einige Bauern an, um Euch zu dienen. Ob Ihr so viele Münder stopfen könnt?
 
 ![17](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/2a02f909-0045-406c-8d2f-f5e07c0e5e77)
 
