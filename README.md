@@ -112,19 +112,19 @@ Burgenmassiv Altdahn, November 1277. Bevor Ihr weiter in das Kernterritorium der
 
 _**Kampagne I - Mission 18 - Am Kühkopf**_
 
-Missionstext folgt in Kürze
+Südhessen, März 1278. De Puce geht aus den bisherigen Kämpfen geschwächt hervor. Er hat den Ernst der Lage nun erkannt, weshalb er jetzt alle Kräfte mobilisieren wird. Um ihn direkt zu konfrontieren, werdet Ihr mit den beschafften Waffen nun in sein Kerngebiet vorstoßen. Hierzu reist Ihr nach Norden, überquert den Rhein und erspäht einen kleinen Gutshof des Feindes. Das Gelände ist umgeben von einem sumpfigen Altarm des Rheins, der im Volksmund "Kühkopf" genannt wird. Der Ort eignet sich aufgrund seiner natürlichen Ausgestaltung, um hier eine Basis zu errichten. Überrennt den Posten und baut den Wasserweg zu einem Burggraben aus, um Euch hier gegen De Puce's Armeen zu verteidigen. Viel Zeit wird Euch nicht bleiben, bis es zur ersten Auseinandersetzung kommt. Bringt Eure Waffen daher schnellstens an Eure Männer. Solltet Ihr De Puce's Streitmacht hier aufreiben, stünde Eurem Marsch gegen De Puce's Hauptburg nichts mehr im Wege.
 
 ![18](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/c4a5636b-c00f-4d5b-8151-c1bf735a75de)
 
 _**Kampagne I - Mission 19 - Dem Tod ins Auge blicken**_
 
-Missionstext folgt in Kürze
+Ockenheim in Rheinhessen, Juni 1278. Die Hauptarmee der Ratte hat in den Sümpfen um Eier Lager herum eine schmähliche Niederlage erlitten. Nun ist die Zeit gekommen, gegen die Festung der Ratte zu marschieren. Doch Spione haben Euch verraten, dass die Ratte plant, Euch auf dem Weg zu ihrer Burg in offenen Feld zu begegnen. Sollte es dazu kommen, braucht Ihr mehr Männer. Daher sendet Ihr folgende Nachricht in Eure Provinzen aus: "Sturm auf die Burg der Ratte! Treffpunkt in sieben Tagen bei der Turmruine nahe Ockenheim!" Ockenheim ist eine kleine Siedlung des Feindes in einem weitgehend baumlosen Landstrich, etwa eine Stunde Fußmarsch von der Burg der Ratte entfernt. Pünktlich verlasst Ihr den Kühkopf. Als Ihr beinahe angekommen seid, seid Ihr hocherfreut, in der Ferne schon eine große Zahl Verbündeter zur Ruine ziehen zu sehen. Trefft sie dort und wartet dann vom Hügel aus auf die Truppen der Ratte, um sie vernichtend zu schlagen.
 
 ![19](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/496d4f20-7ebc-41f6-9d78-9ab7c4527b6d)
 
 _**Kampagne I - Mission 20 - Die Rattenhöhle**_
 
-Missionstext folgt in Kürze
+Bingen, Juni 1278. Die Ratte, dieser Halunke! Irgendwie musste er von Eurem Treffpunkt erfahren haben. Mit falschen Farben hat er Euch Verbündete vorgetäuscht und Ihr lieft in die Falle. Allerdings liefen einige seiner Truppen nach heftigem Kampf zu Euch über. Der Sieg ist knapp. Ihr setzt den Flüchtenden nach und erblickt die Burg der Ratte, Burg Ehrenfels, auf der anderen Rheinseite. Dazwischen liegt ein stark gesicherter Turm, der auch "Mäuseturm" genannt wird. Da Ihr kaum Truppen übrig habt, bittet Ihr Graf Klopp aus Rheinhessen, der die charakterliche Primitivität De Puce's verachtet und mit ihm im Zwist liegt, seine neu errichtete Burg südlich des Flusses nutzen zu dürfen. Der Graf gesteht Euch dies freudig zu. Bringt es hier zu Ende. Wisst aber: De Puce ist beinahe geschlagen, doch nicht allein. Herzog Truffe, wegen seiner chronischen Fettleibigkeit aus "das Schwein" genannt, wird alles daran setzen, Eure Pläne zu durchkreuzen.
 
 ![20](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/85c7314b-5b69-4cd0-99ae-fbb01cc7271d)
 
