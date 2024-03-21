@@ -372,58 +372,61 @@ _**Kampagne IV - Mission 61 - Wolfsjagd**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![61](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/c96c6d75-7d8d-4085-abff-5de9387a94fc)
 
 _**Kampagne IV - Mission 62 - Hochverrat in Hohenzollern**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![62](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/cc1feda3-49aa-4d35-a81d-f306269a597c)
 
 _**Kampagne IV - Mission 63 - Der letzte Tyrann**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![63](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/5ad7659f-dabb-48df-a2a3-ffc8290c981d)
 
 _**Kampagne V - Mission 64 - Die schandbaren Söhne**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![64](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/1c7c68e1-cfef-4313-a790-d3b849be51eb)
 
 _**Kampagne V - Mission 65 - Die Revanche der Separatisten**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![65](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/c0faa5c8-42e0-40b7-aa3a-3c28eebc62ee)
 
 _**Kampagne V - Mission 66 - Der übergriffige Nachbar**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![66](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/36a89ec4-b940-42ac-821d-4c8de612df1b)
 
 _**Kampagne V - Mission 67 - Die Schlacht auf dem Großen Arber**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![67](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/041aa195-7b56-4bbd-b60b-51bb31e0e55c)
 
 _**Kampagne V - Mission 68 - Feinde des Kreuzes**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![68](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/6bfa2b38-f52e-43da-a9ed-e34cd8cfd663)
 
 _**Kampagne V - Mission 69 - Krawall in Hambach**_
 
 Missionstext folgt in Kürze
 
-Bild folgt in Kürze
+![69](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/a768ddef-487f-463e-a508-dab0212ff618)
 
 _**Kampagne V - Mission 70 - Die Wiedergeburt des Reichs**_
 
+Missionstext folgt in Kürze
+
+![70](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/5f26a2b4-ed8a-410a-afcd-b006ba23c696)
 
 
 
