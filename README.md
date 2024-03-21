@@ -130,61 +130,61 @@ Bingen, Juni 1278. Die Ratte, dieser Halunke! Irgendwie musste er von Eurem Tref
 
 _**Kampagne II - Mission 21 - Schlacht um den Frankenstein**_
 
-Missionstext folgt in Kürze
+Burg Frankenstein, September 1278. Nach dem Sieg über die Ratte kleidet sich Eure aufstrebende Bewegung nun in blau, der Farbe des zerfallenen alten Reichs, um Euren Herrschaftsanspruch zu unterstreichen. Ihr verlasst Bingen, noch ehe weitere Truppen des Schweins bei den Ruinen der Rattenfestung eintreffen. Ein Marsch nach Südosten, zurück ins Territorium der Schlange, verspricht neue Perspektiven. An den Hängen des Odenwalds erreicht Euch ein Hilferuf von Graf Frankenstein. Da er die kürzlichen Tributforderungen der Schlange verweigert hat, belagert die Schlange seine Burg. Steht ihm bei und helft ihm dann, seine Kriegskasse für zukünftige Auseinandersetzungen weiter zu füllen. Einige Eurer Hauptleute halten die Burg für zu exponiert und glauben, dass Ihr Eure Kräfte überschätzt. Doch es wäre falsch, Graf Frankenstein die Hilfe nun zu verweigern.
 
 ![21](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/d4481157-d6b6-4b69-9236-be3e4f31a67f)
 
 _**Kampagne II - Mission 22 - Die Festung am Hang**_
 
-Missionstext folgt in Kürze
+Schloss Auerbach, März 1279. Nach dem Sieg über die Schlange bei Burg Frankenstein besteht der nächste Schritt darin, die Festung Auerbach etwas weiter im Süden den Händen der Schlange zu entreißen, denn von hier hat die Schlange ihre zerstörerischen Angriffe gegen den Frankenstein koordiniert. Es handelt sich hierbei um eine der größten Festungen der Schlange. Dies wird damit Eure erste Belagerung einer Großfestung, und Ihr tretet mit Respekt an diese Aufgabe heran. Dazu kommt, dass die Burg nicht nur eingenommen, sondern dann auch gesichert und gehalten werden muss. Hieran hat Graf Frankenstein ein erhebliches Interesse, und er wird Euch hierfür einen wesentlichen Teil des soeben gescheffelten Golds überreichen. Dieses solltet Ihr nach der Einnahme der Burg mit höchster Priorität in den Aufbau einer Verteidigungsgarnison investieren. Rechnet damit, dass Herzug Truffe Eurem Treiben nicht tatenlos zusehen wird.
 
 ![22](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/f5c31aac-23f5-41e0-bc0a-8494df7f10d3)
 
 _**Kampagne II - Mission 23 - Das Städtchen am Main**_
 
-Missionstext folgt in Kürze
+Miltenberg, Mai 1280. Ihr habt den vorderen Odenwald unter Eure Kontrolle gebracht. Nun zieht Ihr es vor, weiter nach Osten zu marschieren. Ihr lasst einige Einheiten zur Sicherung in Auerbach zurück und reist mit einer kleinen Truppe in Richtung des Städtchens Miltenberg am Main. Die Stadt wurde von der Schlange kürzlich bis auf die Grundmauern niedergebrannt, aus bislang unbekannten Gründen. Die Burg wurde stark beschädigt und die Bewohner sind ins Umland geflohen. Schlagt in der leerstehenden Burg Euer Lager auf und baut die Stadt wieder auf, indem Ihr die Ruinen verwertet. Macht Euch beim Volk beliebt, vielleicht zahlt sich das aus. Das Gebiet wird noch immer von Truppen der Schlange (und nun auch Gesetzlosen) durchstreift, auf die Ihr Euch gefasst machen müsst. Eine gute Nachricht gibt es allerdings: Eure Bogenmacher haben inzwischen das Anfertigen von Armbrüsten erlernt. Diese solltet Ihr sofort herstellen.
 
 ![23](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/152d72d2-92d4-4563-aa05-5a16eccaaf13)
 
 _**Kampagne II - Mission 24 - Eine Rast von kurzer Dauer**_
 
-Missionstext folgt in Kürze
+Schloss Mespelbrunn, März 1281. Nachdem sich Miltenberg dank Eurer Anwesenheit wieder zu einer blühenden Siedlung entwickelt hat, reist Ihr weiter nach Norden. Der Graf von Mespelbrunn bietet Euch Rast in seiner Burg. Doch es kommt, wie es kommen musste. Man hatte Euch nachgestellt, und noch von Sonnenuntergang wimmelt der Wald von feindlichen Soldaten, die zu allem Unglück auch über schwere Geschütze verfügen. Helft Graf Mespelbrunn, seine Burg zu verteidigen (und rettet dabei Eure eigene Haut). Graf Mespelbrunn besitzt einen Vorrat brennbaren Öls, das Ihr zu Eurer Verteidigung einsetzen könnt. Dies liefert aber keine Erklärung für den beißenden Pechgeruch in der Burg.
 
 ![24](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/eec69958-e341-4dff-af33-59855118cfa4)
 
 _**Kampagne II - Mission 25 - Das Wirtshaus im Spessart**_
 
-Missionstext folgt in Kürze
+Spessart, Juni 1281. Das Fiasko in Mespelbrunn war ein schwerer Schlag. Ein Verräter hatte vor Beginn der Belagerung Pech in der Burg ausgeschüttet und es dann bei Anbruch der Kämpfe in Brand gesetzt. Da Ihr von Euren Ländereien im Westen abgeschnitten seid, beschließt Ihr, Euch in den nördlichen Spessart abzusetzen und dort im Schutz des Waldes ein neues Lager zu errichten. Doch als wärt Ihr nicht schon genug gebeutelt, ruft Euch Eure Vorhut, als Ihr Euch dem bekannten Wirtshaus im Spessart nähert, nun entgegen, eine große Truppe der Schlange befände sich vor Euch auf dem Weg. Was nun? Verlasst sofort den Hohlweg, bevor Ihr gesehen werdet, und nutzt das Gelände, um Euch zu verteidigen!
 
 ![25](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/9c4e5d30-fcc8-4a48-9e60-ad7539606b28)
 
 _**Kampagne II - Mission 26 - Verloren im Wald**_
 
-Missionstext folgt in Kürze
+Spessart, Juni 1281. Ihr seid wiederholt vom Unglück heimgesucht worden und habt schwere Verluste erlitten. Euren verbleibenden Männern gehen die Kräfte aus, und zudem habt Ihr kaum noch Proviant. Ihr haltet eine Katastrophensitzung und beschließt, Euch für eine Weile im Wald zu verbergen. Nahe einiger heißer Quellen entdeckt Ihr eine zerklüftete Anhöhe, die sich gut eignet. Jetzt könnt Ihr nur hoffen, nicht entdeckt zu werden. Besorgt Euch Verpflegung und neue Waffen - Handelsrouten gibt es hier kaum. Lasst Euch Eure Stimmung von den Mönchen des nahegelegenen Eremitenklosters etwas aufhellen.
 
 ![26](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/4ae7b11c-4e57-4767-9b2f-5ab18a6da7db)
 
 _**Kampagne II - Mission 27 - Das Waldschloss**_
 
-Missionstext folgt in Kürze
+Osthessen, Oktober 1281. Ihr wurdet entdeckt, habt Eure Stellung aber wacker gehalten. Euren satten Goldüberschuss überreicht Ihr an Eure Provinzen im Westen. Nun reist Ihr mit einer kleinen Truppe weiter nach Norden. Kurz später erfahrt Ihr, dass der Herzog von Fulda, der Euch wohlgesonnen ist, als Winterresidenz ein künstlerisch errichtetes Waldschloss besitzt. Da das Schloss auch nahe einem Handelsknotenpunkt liegt, hat die Schlange es schon lange darauf abgesehen und erdreistet sich nun, es zu belagern. Ihr werdet dies mit Gewalt verhindern und das Schloss so lange halten, bis die Schlange ihre Absichten aufgegeben hat. Zieht Eure Truppen schnell von Süden aus in die Burg. Bestimmt wird der Herzog es Euch danken.
 
 ![27](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/a813daf2-cbca-4e1e-9ad3-8d24862a118d)
 
 _**Kampagne II - Mission 28 - Die schwarzen Raubritter**_
 
-Missionstext folgt in Kürze
+Vogelsberg, Februar 1282. Der Herzog von Fulda dankt Euch für die Verteidigung seines Schlosses und unterstellt einen Trupp Reiter Eurem Kommando. So zieht Ihr weiter nach Norden, um Herzog Beauregard weitere Gebiete streitig zu machen. Kurz darauf erhaltet Ihr die Nachricht, dass sich ein Räubernest in der Gegend befinde. Es handle sich um eine stark bewachte Turmburg an den Hängen des Vogelsbergs. Letztere sei kürzlich ausgebrochen und ruhe noch immer nicht. Stellt Recht und Ordnung in diesem Landstricht her, doch gebt Acht auf die Naturgewalten.
 
 ![28](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0b836566-8257-4bfe-9a3f-e9dc7e8acfc7)
 
 _**Kampagne II - Mission 29 - Im Schatten des Vulkans**_
 
-Missionstext folgt in Kürze
+Osthänge des Vogelsbergs, März 1282. Das Banditennest habt Ihr ausgeräuchert, doch noch immer kehrt in der Region keine Ruhe ein. Ihr geratet in eine karge Landschaft mit ein paar heißen Quellen, in der sich die Natur nur langsam von den Bränden erholt, die der Vulkan verursacht hat. Plötzlich trefft Ihr auf ein paar Hütten und werdet Zeugen, wie deren Bewohner grausam ermordet werden. Ihr könnt die Halunken zwar stellen, doch schreit dies nach Vergeltung. Ihr lasst Euch daher in dieser Gegend nieder, um eine Burg zu errichten. Dies wird aber kein leichtes Unterfangen sein, da das Schwein das Gebiet neuerdings beansprucht und einen Spähturm errichtet hat. Eure Aktivitäten werden daher nicht verborgen bleiben. Da es hier kaum Holz gibt, müsst Ihr es Euch irgendwie anders beschaffen.
 
 ![29](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/690cfcbe-4382-46d0-9b66-d0ee221fd76a)
 
 _**Kampagne II - Mission 30 - Der verwunschene Pfad**_
 
-Missionstext folgt in Kürze
+Nördliche Rhön, Oktober 1282. Mit viel Krafteinsatz gelang es Euch, dem Schwein und der Schlange einen Teil dieser Region abzutrotzen. Ihr marschiert nun weiter nach Norden und gelangt in ein stark zerklüftetes Felsengebiet, in dem sich eine gemeinsame Festung der Schlange und des Schweins befindet. Weiter nördlich steht ein Kloster, welches durch die Burgherren der beiden Festungen seit längerer Zeit bedrängt und bedroht wird und kürzlich unter ein Handelsembargo gestellt wurde. Die Nahrungsvorräte gehen nun langsam aus, nur wenige Schmuggelwege für bestimmte Waren stehen noch offen. Nun heißt es gar, ein schwerer Angriff stehe bevor, um das Kloster vom Erdboden zu tilgen. Eilt schnell zum Kloster, um dem Klosterherrn beizustehen! Unklar ist allerdings, wie Ihr dorthin gelangen sollt. Haltet auf jeden Fall so viele Eurer Soldaten am Leben wie möglich, insbesondere Fernkämpfer, Ihr werdet sie brauchen. Sorgt zuletzt dafür, dass diese Gegend von allen Feinden gesäubert wird.
 
 ![30](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/57249cf6-94fd-47d0-9eeb-9816aaa62ccb)
 
