@@ -190,61 +190,61 @@ Nördliche Rhön, Oktober 1282. Mit viel Krafteinsatz gelang es Euch, dem Schwei
 
 _**Kampagne II - Mission 31 - Wartburg**_
 
-Missionstext folgt in Kürze
+Eisenach, Juni 1283. Euer Erfolg zieht immer mehr Aufmerksamkeit im Reich auf sich. Die Herren einzelner Grafschaften fassen zunehmend den Mut zur offenen Auseinandersetzung mit den verbleibenden drei Tyrannen. Eisenach hat sich gegen die Schlange aufgelehnt und die Truppen der Stadt haben die Belagerung der Wartburg begonnen, die der Schlange gehört. Da der Statthalter wenig militärische Erfahrung hat, bittet er Euch um Verstärkung und um die Befehligung seiner Truppen. Ihr nehmt das Angebot an und begebt Euch mit einer Kompanie Armbrustschützen und Pikenieren zur Wartburg. Die Schlange hatte kürzlich eine große Waffenlieferung dort deponiert. Es wäre äußerst hilfreich, diese mitsamt der Burg zu erlangen. Die Burg ist stark bewacht, daher sind Eure Soldaten etwas ängstlich, was sich auf ihre Moral niederschlägt. Wenn Ihr die Burg eingenommen habt, macht es Euch dort bequem und sorgt für einen wirtschaftlichen Aufschwung. Ihr seid nun auch in der Lage, Ballisten zu bauen.
 
 ![31](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5ceb4a8a-b7a2-4333-97f4-00ec55f1ad31)
 
 _**Kampagne II - Mission 32 - Die Drei Gleichen**_
 
-Missionstext folgt in Kürze
+Gotha, März 1284. Mit der Wartburg konntet Ihr der Schlange einen weiteren wichtigen Stützpunkt abnehmen und verfügt nun über ein großes Waffenarsenal. Ihr seid bestens gewappnet, die offene Konfrontation mit der Schlange in ihrem Kernterritorium zu suchen. Daher setzt Ihr Euren Marsch weiter nach Osten fort. Nicht fern von Gotha ist Euch der Weg durch drei feindliche Burgen versperrt, die nahe beieinander auf drei Hügeln gebaut sind. In einer Nacht- und Nebelaktion gelingt es Euren Truppen, die kleinste der drei einzunehmen, die allerdings dabei fast vollständig abbrennt. Im Morgengrauen wimmelt die Ebene von Feindestruppen, die die Burg zurücknehmen wollen, und Ihr zieht es vor, den Feind im offenen Feld auszumerzen, anstatt Euch belagern zu lassen. Wenn sich der Staub gelegt hat, nehmt die anderen Burgen ein.
 
 ![32](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/72101fce-de2b-43cb-8820-25a64d1813fe)
 
 _**Kampagne II - Mission 33 - Vor den Toren Erfurts**_
 
-Missionstext folgt in Kürze
+Erfurt, April 1285. Die Drei Gleichen sind gefallen und gehören Euch. Nun nutzen auch die Bürger von Erfurt die Gunst der Stunde, um sich gegen die Herrschaft der Schlange zu erheben. Doch die Schlange und das Schwein wollen keine weiteren Präzedenzfälle. Sofort entsenden sie daher große Truppenkontingente, um die Stadt zu belagern. Leider habt Ihr derzeit keine nennenswerten Truppenverbände, um die Schlacht zu Euren Gunsten zu beeinflussen. In diesem Moment erreicht Euch frohe Kunde aus den bayerischen Provinzen, die bislang beinahe gänzlich unter der Gewalt der Schlange standen. Unter der Leitung der Stadt Nürnberg haben sich die Provinzen für unabhängig erklärt und der Schlange gleichzeitig den Krieg erklärt. Die Fürsten von Nürnberg, München und Augsburg haben von der Belagerung Erfurts gehört und unterstellen Eurem Kommando sofort eine Reiter-Hundertschaft. Als diese eintrifft, reitet Ihr in Eile nach Erfurt. Bei Eurer Ankunft ist die Belagerung schon in vollem Gange.
 
 ![33](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/aa2b3519-b19c-437f-b485-3eef1230b8a3)
 
 _**Kampagne II - Mission 34 - Das Schlangennest**_
 
-Missionstext folgt in Kürze
+Kriebstein, Mai 1285. Erfurt konnte gehalten werden, doch die Verluste auf beiden Seiten waren groß. Um nun zum tödlichen Schlag gegen Beauregard auszuholen, ruft Ihr Verstärkung herbei und setzt den verbleibenden Truppen von Herzog Beauregard nach Osten bis zu seiner Heimatburg nach, der Burg "Kriebstein", die hoch auf den Klippen an einem schlangenförmigen Flussverlauf liegt. Doch Ihr holt den Feind nicht mehr ein und seht ihn nur noch aus der Ferne in die Burg ziehen. Umzingelt die Burg und belagert sie. Nutzt hierzu eine neue Belagerungswaffe, den Tribok, um die Türme und Tore in Schutt und Asche zu legen. Die Auseindersetzung mit der Schlange muss hier ein für alle Mal ein Ende finden. Sorgt auf jeden Fall dafür, dass Eure Bogen- und Armbrustschützen die Belagerung überstehen, sofern Herzog Truffe der Schlange zu Hilfe kommen sollte. In diesem Fall müsstet Ihr Euch aus der Burgruine heraus verteidigen, da Ihr einen Kampf gegen Truffe sonst nicht überleben würdet.
 
 ![34](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/49ae2ab5-c7c7-49cf-abd3-900c68614c6c)
 
 _**Kampagne III - Mission 35 - Eine neue Front**_
 
-Missionstext folgt in Kürze
+Westerwald, November 1285. Noch in der Nacht der Burgeinnahme überprüft Ihr alle Erschlagenen und stellt mit großer Verwunderung fest, dass sich Beauregard nicht darunter befindet. Ihr folgert, dass er sich heimlich abgesetzt haben muss. Er ist nun mit Sicherheit über alle Berge, doch seine Macht scheint gebrochen. Daher werdet Ihr Euch behutsam dem Schwein zuwenden und seine Ostprovinzen belagern. Eine Ruine im Westerwald, zwei Wochenmärsche Richtung Westen, hat Euer Interesse geweckt. Ihre Besitzer sind vor langer Zeit der Pest zum Opfer gefallen und das Volk munkelt, die Burg sei verwünscht. Doch das beeindruckt Euch nicht. Erweitert die Burg zu einer starken Festung und behauptet Euch. Macht nun von Euren erweiterten Schmiedekenntnissen Gebrauch und stellt unbedingt schwere Waffen her, um den Armeen des Schweins etwas entgegen zu stellen. Wenn nötig, vertreibt die Heerscharen des Schweins mit steinewerfenden Mangen.
 
 ![35](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/3a641df1-8077-4002-b560-9e7468bfd8ab)
 
 _**Kampagne III - Mission 36 - Verbrannte Erde**_
 
-Missionstext folgt in Kürze
+Kloster Marienburg, September 1286. Ihr habt dem Schwein widerstanden und werdet ihn nun durch einen geschickten Schachzug verwirren. Hierzu werdet Ihr tief nach Südwesten durch sein Reich ziehen und ihn blitzartig an unerwarteter Stelle angreifen. Ihr marschiert eine Woche lang nach Südwesten, überquert den Rhein, und erspäht dann eine günstig gelegene Anlage in der Mitte zweiter Arme der Mosel. Es handelt sich um ein Kloster, das von Schweinstruppen bewacht ist. Im Nu ergreift Ihr von der Anlage Besitz. Doch der Feind hat Eure Ankunft früh bemerkt und setzt die gesamte Anlage in Brand, einschließlich der bewirtschafteten Felder, bevor er flieht. Hier seid Ihr nun, mutterseelenallein inmitten einer Ruine im Feindesland. Und davon nicht genug: Rings herum befinden sich weitere Stützpunkte des Schweins, die von Eurer Aktion Wind bekommen haben.
 
 ![36](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/ebe0ae9e-7960-4249-af84-d91d7d11062b)
 
 _**Kampagne III - Mission 37 - Der fette Bruder**_
 
-Missionstext folgt in Kürze
+Burg Cochem, Juli 1287. Euer unerwartetes Auftauchen hier im Südwesten hat das Schwein in Rage gebracht. Ihr verlasst daher das Kloster, da es sich nicht dazu eignet, ausgewachsene Schlachten zu bestreiten, und marschiert das Moseltal nach Nordosten hinab. Bald trefft Ihr auf Burg Cochem, die auf einem Felsmassiv am Fluss liegt. Wie Ihr kürzlich erfahren habt, wird die Burg vom ruchlosen Bruder des Schweins gehalten, der eine Allianz mit lokalen Banditen eingegangen ist. Entreißt ihm die Burg und besetzt sie. Setzt alles daran, die Verteidiger führerlos zu machen, indem Ihr den Burgherrn umgehend ermordet. Kundschafter haben verlassene Belagerungsgeräte im Wald ausgemacht, welche Ihr nutzen könnt. Die hiesige Bevölkerung ist an den Konsum hoher Alkoholmengen gewöhnt. Um die Siedlung zu halten, werdet Ihr daher nicht darum herum kommen, für genügend Nachschub zu sorgen. Zudem solltet Ihr Euch für alle Fälle einen Pechvorrat zulegen.
 
 ![37](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/24f9d44f-0955-47c3-b38d-bd2c3e17c4a7)
 
 _**Kampagne III - Mission 38 - Kurzer Prozess**_
 
-Missionstext folgt in Kürze
+Hunsrück, April 1288. Eure Schlagkraft gegen die Banditen im Moseltal und insbesondere die Beseitigung des fürchterlichen Bruders des Schweins hat sich herumgesprochen. Aus Angst setzen sich die verbleibenden Banditengruppen der Gegend in die Wälder des Hunsrücks ab und verschanzen sich dort. Euch wurde zugetragen, wo sich ihr Hauptlager befindet. Eure Haupttruppe wird Cochem sichern. Schlagt mit einer kleinen Strafexpedition zu, lockt die Ganoven aus ihren Höhlen, und räuchert das Nest aus!
 
 ![38](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/9807e5c0-c4ee-4b42-9381-d2f8e900c8c0)
 
 _**Kampagne III - Mission 39 - Ein Stützpunkt im Grünen**_
 
-Missionstext folgt in Kürze
+Burg Eltz, Mai 1288. Das Schwein ist voller Zorn über den Tod seines Bruders. Er hat geschworen, Euch dies heimzuzahlen. Ihr benötigt eine gut befestigte Burg, um Euch gegen die Haupttruppen des Schweins zu verteidigen. Hierzu bietet sich Burg Eltz an, die derzeit einem Statthalter des Schweins untersteht und gut geschützt an einem Flusslauf liegt. Ihr könnt diese Burg nicht ohne große Verluste einnehmen, doch haben Eure Männer vorige Nacht heimlich das Pech, das Ihr in Cochem gesammelt habe, in großen Mengen auf dem Gelände außerhalb der Burg verteilt. Setzt die Siedlung in Brand. Wendet Euch dann gegen die Burg und versucht, so wenige Verluste wie möglich zu erleiden. Ihr müsst mit einem umgehenden Gegenschlag des Schweins rechnen und braucht daher jeden Mann. Problematisch ist ferner, dass Ihr derzeit knapp bei Kasse seid und Euch eine ausgedehnte Belagerung kaum leisten könnt. Scheffelt ordentlich Gold, sobald die Burg Euch gehört.
 
 ![39](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/68489f1a-9140-4cf0-a474-ed36c5838cd9)
 
 _**Kampagne III - Mission 40 - Zeit, das Zeitliche zu segnen**_
 
-Missionstext folgt in Kürze
+Burg Rheinstein, Oktober 1288. Burg Eltz ist Euer, doch wie aus dem Nichts trat Beauregard wieder auf den Plan. Wie konnte er aus dem Exil Truppen auftreiben? Dieser Frage müsst Ihr schleunigst auf den Grund gehen, denn gegen einen Bund aus Schlange und Schwein seid Ihr machtlos. Ein Spion verrät Euch, dass Beauregard nicht fern von Euch in einer gut bewachten Festung des Schweins namens Rheinstein Unterschlupf gefunden hat. Von dort plane er seine Aktivitäten. Nehmt die Burg ein und lasst keine Gnade walten. Doch gebt Acht: Da das Schwein linksrheinisch derzeit mit starken Verbänden patroulliert, zogt Ihr am rechten Rheinufer entlang. Ihr müsst den Fluss nun nahe der Burg an unpassender Stelle überqueren.
 
 ![40](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/64376d13-c2f5-4771-b0aa-75f32c4e4da3)
 
