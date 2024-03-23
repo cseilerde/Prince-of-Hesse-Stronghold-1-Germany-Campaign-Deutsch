@@ -250,61 +250,61 @@ Burg Rheinstein, Oktober 1288. Burg Eltz ist Euer, doch wie aus dem Nichts trat 
 
 _**Kampagne III - Mission 41 - Blutvergießen im Taunus**_
 
-Missionstext folgt in Kürze
+Burg Eppstein, Oktober 1288. Herzog Beauregard ist endlich seiner gerechten Strafe zugeführt worden. Darüber hinaus habt Ihr die linksrheinischen Regionen dem Schwein abgetrotzt. Ihr überquert nun mit einem großen Truppenverband den Rhein, um auch die geräumigen Nordostprovinzen des Schweins unter Eure Kontrolle zu bekommen. In den überwiegend bewaldeten Gebieten unterhält Herzog Truffe eine Reihe schwer bewachter Festungen. Diese gilt es nun zu erobern, bevor Ihr seine Hauptburg weiter nördlich am Rhein belagern könnt. Burg Eppstein, eine stark gesicherte Höhenburg mit zahlreichen Verteidigungswällen, liegt Euch am nächsten. Eine starke Garnison des Schweins befindet sich derzeit auf dem Weg zur Burg. Schneidet dem Tross den Weg ab, bevor er in der Burg Quartier beziehen kann. Ergreift sodann Besitz von der Burg, doch zerstört sie nur in dem Maße, wie es nötig ist. Ihr werdet das Gemäuer noch brauchen.
 
 ![41](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/241036b1-f0c6-48ca-940c-e65087d63e2f)
 
 _**Kampagne III - Mission 42 - Das alte Römerkastell**_
 
-Missionstext folgt in Kürze
+Saalburg, März 1289. Im ausklingenden Winter marschiert Ihr auf den windigen Berghängen des Taunusgebirges weiter nach Osten, wo sich, weit abgeschieden von den meisten Siedlungen im Umland, ein altes Römerkastell befindet. Dieses stand lange leer, doch im Zuge des Konflikts haben Schweinstruppen es wieder aufgebaut und dort ein Lager aufgeschlagen. Strategisch günstig auf einem Bergkamm gelegen, ist das Kastell für Eure weiteren Planungen relevant. Ergreift davon Besitz und setzt Euch hier fest, so lange es opportun erscheint. 
 
 ![42](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/69699d39-f35e-4fd2-b004-ec836e045c51)
 
 _**Kampagne III - Mission 43 - Hackfleisch**_
 
-Missionstext folgt in Kürze
+Taunus, Oktober 1289. Nachdem Ihr die Saalburg gesichert habt, rückt Ihr mit einer großen Armee und einer Reitertruppe, die sich spontan zu Eurer Unterstützung eingefunden hat, weiter in die Territorien des Schweins nach Nordosten vor. Als Ihr eine Lichtung im Hochtaunus passiert, wird Euch klar, dass Ihr umzingelt seid: Rote und schwarze Uniformen blitzen auf beiden Seiten durch das Dickicht am Waldrand auf. Herzog Truffe muss Euch ausspioniert und den Herzog Volpe, wegen seiner Intelligenz und Gerissenheit auch "der Wolf" genannt, zu Hilfe gerufen haben. Euch droht eine Schlacht an zwei Fronten.
 
 ![43](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/4adc1dc2-cef1-4e5a-8597-1582a8d51afa)
 
 _**Kampagne III - Mission 44 - Vom Mühlstein zerrieben**_
 
-Missionstext folgt in Kürze
+Burg Braunfels, Oktober 1289. Der Hinterhalt im Taunus hat Eure Planungen meilenweit zurückgeschlagen, da Eure Hauptarmee stark dezimiert wurde. Ihr flüchtet Euch mit den Überlebenden einige Tagesmärsche weit ins dünn bewohnte Waldland nach Norden. Die dort auf einem Hügel gelegene Burgruine Braunfels bietet sich als idealer Zufluchtsort zum Ausheben neuer Truppen an. Wie Euch nun bewusst ist, hat der Wolf sich offenbar dazu entschieden, ernsthaft in den Lauf der Ereignisse einzugreifen. Schlimmer noch: Er wird wohl bald sein neues Schwertkämpferbatallion gegen Euch einsetzen. Euch bleibt nicht viel Zeit. Überdies sind Eure Provinzen auf dringenden Nachschub an Waffen angewiesen. Auch darum müsst Ihr Euch kümmern.
 
 ![44](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/7ae70575-fed9-4644-a703-bdedd9672298)
 
 _**Kampagne III - Mission 45 - Die letzte Bastion**_
 
-Missionstext folgt in Kürze
+Burg Altena, März 1291. Trotz heftiger Angriffe des Feindes konntet Ihr Euch in Braunfels festsetzen und neue Kraft schöpfen. Der Wolf musste sich zurückziehen, um Aufstände in seinen eigenen Provinzen zurückzuschlagen. Dies spornt Euch nun dazu an, die nördlichen Waldländer endgültig von der Gegenwart des Schweins zu befreien. Burg Altena ist die letzte Festung in der Hand des Schweins in dieser Gegend. Nehmt sie ein und zieht dann schnurstracks weiter in Richtung der Hauptburg des Schweins. Burg Altena ist schwer zugänglich. Ihr werdet Euch durch mehrere schwer bewachte Zwinger kämpfen müssen. Ihr sendet Boten in die umliegenden Landstriche aus, um Unterstützung anzuwerben. Verstärkung sollte in Kürze eintreffen.
 
 ![45](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/2ebb9f7a-1c46-4ab5-8259-a5462ad9c031)
 
 _**Kampagne III - Mission 46 - Geschrei an der Loreley**_
 
-Missionstext folgt in Kürze
+Loreleyfelsen am Rhein, März 1291. Der Widerstand im Norden ist gebrochen. Ihr setzt Eure Truppen daher eiligst zu einem Wochenmarsch nach Süden in Bewegung, um Herzog Truffe's Hauptburg am Rhein zu belagern. Hierbei handelt es sich um um die schwer bewachte Burg Rheinfels hoch auf den Klippen am Fluss. Herzog Truffe ahnt Eure Pläne natürlich. Kundschafter tragen Euch zu, dass Truffe seine Hauptarmee zusammengezogen hat, um sich Euch in den Weg zu stellen. Als Ihr den Rhein nahe dem berüchtigten Loreleyfelsen erreicht, seht Ihr Truffe's Heeresmacht auf der Anhöhe am anderen Ufer in der Sonne glitzern. Der Feind hat dort ein Feldlager aufgeschlagen. Ein direkter Schlag gegen Truffe's Truppen wäre Selbstmord. Besetzt daher schnell das verlassene Bauernhaus, verschanzt Euch, und stockt Eure Truppen auf. Wer schlägt zuerst zu? Truffe wird Euch jedenfalls keine Ruhe lassen.
 
 ![46](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/981f1aac-1d56-4df3-9fbe-9531fe1fd48f)
 
 _**Kampagne III - Mission 47 - Schweinebraten**_
 
-Missionstext folgt in Kürze
+Burg Rheinfels, März 1291. Die Schlacht an der Loreley war heftig und hat sowohl dem Schwein als auch Euch hohe Verluste beigebracht. Die verbleibenden Schweinstruppen verlassen gegen Ende der Kämpfe fluchtartig das Schlachtfeld. Ihr setzt den Fliehenden nach, doch reicht Eure Truppenstärke nicht aus, es direkt mit der Burg des Schweins aufzunehmen. Ihr werdet die Burg belagern. Auf einem hohen Felsen am anderen Flussufer befindet sich Burg Katz, deren Burgherr Euch bereitwillig seine Burg zur Verfügung stellt. Quartiert Euch hier ein, werbt weitere Truppen an und führt Herzog Truffe dann ein für alle Mal seiner gerechten Strafe zu. Ein Problem habt Ihr jedoch: Burg Katz ist sehr klein.
 
 ![47](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0abeafc1-2c63-46eb-96d6-e82533edc871)
 
 _**Kampagne IV - Mission 48 - Wolfsheulen**_
 
-Missionstext folgt in Kürze
+Brocken, November 1291. Herzog Truffe ist Geschichte. Doch die Einnahme seiner Burg war eine schwere Strapaze. Nachdem Ihr Euren Männern eine kleine Ruhepause gegönnt habt, verteilt Ihr sie auf die eingenommenen Provinzen und setzt Euch mit einem Stoßtrupp nach Norden ab, um im weit entfernten Harzgebirge, an der südlichen Grenze zu den Ländereien des Wolfs, eine Präsenz aufzubauen. Ihr lasst Euch auf einer hohen Bergkuppe namens Brocken nieder. Errichtet dort eine Steinburg. Des Nachts vernehmt Ihr im Pfeifen des Windes das schauerliche Heulen der Wölfe. Ob das ein schlechtes Omen ist? 
 
 ![48](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/6bbe7289-8fb6-42d2-92bb-e4b080a1660d)
 
 _**Kampagne IV - Mission 49 - Überraschungsangriff**_
 
-Missionstext folgt in Kürze
+Burg Hohnstein, Südharz, März 1292. Ihr habt erstmals Wolfsterritorium besetzt, doch der Brocken eignet sich nicht für weitere Auseinandersetzungen, da die Nahrungsmittelversorgung hier zu schwierig ist. Ihr fasst daher den Plan, weiterzumarschieren und den Wolf dort zu schlagen, wo es ihn am Empfindlichsten trifft: Bei seiner Rüstungsindustrie. Ihr wisst, dass der Wolf an den Südhängen des Harzgebirges um Burg Hohnstein herum einige Minen unterhält, die mehrere Waffenschmieden in der Burg versorgen. Ihr wollt die Burg in einem Überraschungsangriff einnehmen, den dortigen Statthalter beseitigen, und die vorhandene Industrie dann für Eure eigenen Zwecke nutzen. Schnurstracks reist Ihr ab. Der Wolf wird Euch hier sicherlich nicht vermuten, denn Burg Hohnstein liegt weit südlich der Marschroute, die euer Feind voraussehen würde. Ihr rechnet damit, die Wachmannschaft überrumpeln zu können.
 
 ![49](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/81367eea-3511-4b62-8fa0-67dd1ac85e2e)
 
 _**Kampagne IV - Mission 50 - Der Bruchwald**_
 
-Missionstext folgt in Kürze
+Roßlau, August 1292. Wie Ihr Euch getäuscht hattet! Als Ihr Burg Hohnstein erreichtet, gerietet Ihr in einen heftigen Kampf mit Truppen des Feindes, die sich in den Minen und im Wald verborgen gehalten hatten. Wie hatte der Wolf von Euren Plänen erfahren? Zwar konntet Ihr die Oberhand behalten, doch wurden einige Eurer engsten Gefährten im Kampf vom Feind verschleppt. Nun erhaltet Ihr eine dringende Nachricht von einem Vertrauten: Eure Männer seien auf Burg Roßlau in Gefangenschaft, einer von sumpfigem Bruchwald umgebenen Wasserburg rund vier Tagesmärsche gen Osten. Der Informant des Wolfs, ein hoher Offizier, habe kürzlich Befehl erhalten, Euren Männern den Garaus zu machen, und sei hierzu nun mit einem Mordkommando auf dem Weg nach Roßlau. Reist schnell ab und rettet Eure Männer vor dem sicheren Tod! Eliminiert den Feind, bevor er die Burg erreicht, und legt dann die Burg in Schutt und Asche!
 
 ![50](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/35c78aa8-28d4-4045-95ca-f15aa38886ca)
 
