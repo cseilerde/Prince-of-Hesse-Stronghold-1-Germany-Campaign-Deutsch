@@ -310,67 +310,67 @@ Roßlau, August 1292. Wie Ihr Euch getäuscht hattet! Als Ihr Burg Hohnstein err
 
 _**Kampagne IV - Mission 51 - Heidekrieg**_
 
-Missionstext folgt in Kürze
+Kloster Lüne, August 1292. Ihr seid nun relativ abgeschieden in den Ostprovinzen des Wolfs. Da Ihr noch in keinster Weise dazu bereit seid, gegen seine Hauptburg zu marschieren, beschließt Ihr, ihn schrittweise einzukreisen. Daher bewegt Ihr Euch einige Tagesmärsche nach Nordwesten. Ihr befindet Euch nun in der Nähe von Kloster Lüne, einer großen Klosteranlage mit einem Euch freundlich gesinnten Klosterherrn. Die Anlage war dereinst von einem Fluss umgeben, der derzeit aber beinahe trocken liegt. Ihr erfahrt, dass das Kloster in diesen Minuten unter Beschuss durch Wolfstruppen stehe und dringend Hilfe brauche. Ihr bewegt Eure Männer umgehend zum Kloster, doch als Ihr eintrefft, steht schon alles in Flammen. Was nun? Rettet, was zu retten ist, und seht dann zu, dass das Kloster wieder aufgebaut wird.
 
 ![51](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5451a440-1bf2-4173-ba02-ba389577140c)
 
 _**Kampagne IV - Mission 52 - Durch die Hintertür**_
 
-Missionstext folgt in Kürze
+Bomlitz in der Heide, Februar 1293. Kloster Lüne hat sich als guter Standort bewährt, und Ihr konntet die Wolfstruppen in einigen heftigen Schlachten zurückschlagen. Allerdings gelang es dem Feind, den Klosterherrn bald nach Ende der Schlacht zu entführen, während dieser sich auf einem Jagdausflug befand. Nach mehreren Monaten wird Euch eine Botschaft überreicht. Der Klosterherr sei noch am Leben und werde in der Hünenburg bei dem kleinen Örtchen Bomlitz, etwa drei Tagesmärsche entfernt Richtung Südwesten, gefangen gehalten. Da Euch das Schicksal des Klosterherrn am Herzen liegt und Ihr auch die Zeit gekommen seht, in den Provinzen des Wolfs weiter Unruhe zu stiften, reist Ihr nach Bomlitz ab. Als Ihr eintrefft, seht Ihr, dass die Festung gut bewacht ist. Gibt es hier irgendwie eine Möglichkeit, den schwer bewachten und verminten Haupteingang zu umgehen? Sobald Ihr Zutritt erlangt habt, seht zu, dass der Feind ausgeschaltet wird und Ihr die Festung für Euch gewinnt.
 
 ![52](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/da60ecb2-60db-4174-a7b1-50699de6a686)
 
 _**Kampagne IV - Mission 53 - Die Sümpfe des Verderbens**_
 
-Missionstext folgt in Kürze
+Ein Moorgebiet in der nördlichen Lüneburger Heide, Juni 1293. Der Wolf sendet immer stärkere Truppenverbände, die Euer Holzfort zunehmend ramponieren. Sich hinter Holzwällen vor den Katapulten des Wolfs verbergen zu wollen, war ohnehin nie Euer Plan. Ihr geht daher der direkten Auseinandersetzung erneut aus dem Weg und setzt Euch nach Norden ab. Nun setzen aber heftige Regenfälle ein, die das Moor, das Ihr Gerade passiert, anschwellen lassen, sodass keine Passage mehr möglich ist. Eure Truppen bleiben stecken, und an Weiterreise ist nicht zu denken. Ihr seid in der Falle. Natürlich ist es nur eine Frage der Zeit, bis Euch der Wolf auch hier aufspürt. Ihr seid ihm auf dem Präsentierteller ausgeliefert. Was nun? Wie soll man sich in diesem Sumpfland verbarrikadieren? Zu allem Übel kommt noch hinzu, dass die Stechmücken und das unreine Wasser Eure Männer krank machen. Irrlichter erleuchten Euch den Weg durch das Dickicht. Werdet Ihr in diesem Morast jämmerlich verrecken?
 
 ![53](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/6404763c-b0dc-4a4a-a48e-9733f46d287a)
 
 _**Kampagne IV - Mission 54 - Pech in der Glücksburg**_
 
-Missionstext folgt in Kürze
+Glücksburg, Oktober 1293. Dankenswerterweise gab es in Eurer Umgebung reichlich Pechvorkommen, womit Ihr einen Pechschmuggel etablieren konntet. Einige Monate und viele Krankheitstote später hat Trockenheit das Moor wieder passierbar gemacht. Kurz nachdem Ihr einen heftigen Angriff des Wolfs zurückgeschlagen habt, gelingt Euch die Flucht. Ihr braucht dringend eine neue Basis und müsst Euren Männern Erholung verschaffen. Ihr wollt daher so weit wie möglich aus dem direkten Einflussbereich des Wolfs entfliehen. Ein Kundschafter meldet Euch, dass sich hoch im Norden, an der Grenze zum Wikingerreich, ein altes und halb versumpftes Klostergemäuer namens Glücksburg befinde, das von einer kleinen Wikingergruppe ab und an als Unterkunft genutzt werde. Zwar paktieren die Wikinger mit dem Wolf, doch ist die Konfrontation mit ihnen risikoärmer als in den Ländereien des Wolfs zu verbleiben. Ihr macht Euch daher auf die lange Reise und hofft, dass der Wolf Euch hier nicht entdeckt.
 
 ![54](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/33c92bb8-b99e-4a14-bad6-71b27eb29c54)
 
 _**Kampagne IV - Mission 55 - Zerplatzte Träume**_
 
-Missionstext folgt in Kürze
+Helgoland, März 1294. Natürlich hatten die Wikinger Euch an den Wolf verraten, und es dauerte nicht lange, bis er vor Euren Toren stand. Doch nun beginnt Euer schlimmster Alptraum. Als Ihr Euch nach dem letzten Scharmützel in Eurem Bergfried zur Ruhe gelegt hattet, becherten Eure Wachen in der Taverne. Mehrere Wikinger müssen sich dann irgendwie Zutritt zur Burg verschafft haben, vielleicht mit einem Seil in der Dunkelheit von der Seeseite aus, in Euer Gemach eingedrungen sein, Euch bewusstlos geschlagen, und dann entführt haben. Als Ihr blutverschmiert und mit dröhnendem Kopf aufwacht, vernehmt Ihr die Brocken der nordischen Sprache Eurer Bewacher und findet Euch gefesselt in einer kleinen Burganlage auf einer stark zerklüfteten Insel. Was um alles in der Welt ist geschehen? Wer soll Euch hier finden? Wissen Eure Männer überhaupt, wo Ihr seid? Ihr ahnt, dass dies Euer Ende sein wird, es sei denn, es geschieht ein Wunder.
 
 ![55](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/a11f93a7-8068-4d1a-af80-4948a10cefb8)
 
 _**Kampagne IV - Mission 56 - Weit ab vom Schuss**_
 
-Missionstext folgt in Kürze
+Nordseeküste, September 1294. Nach monatelangem Warten gelang es Euren Männern, Euch ausfindig zu machen, ein Sonderkommando auf die Insel zu schicken, und Euch zu befreien. Da ein Sturm allerdings Euer Schiff zerstört hatte, konntet Ihr nicht abreisen und musstet Euch erneut gegen den Wolf und umherstreifende Wikingerbanden verteidigen, bis Ihr genügend Rohstoffe zusammengesucht hattet, um ein neues Schiff zu bauen und mit Proviant die Seereise anzutreten. Ihr kehrt nun nicht zurück zur Glücksburg, die aus Eurer Sicht eher eine "Pechburg" war, sondern nach Süden an die äußerst dünn besiedelte Nordseeküste. Ihr landet dort an einem weiten Sandstrand an, hinter dessen Dünen sich ein Wäldchen befindet. In diesem Landstrich fern aller Zivilisation wollt Ihr Euch in Ruhe eine neue Existenz aufbauen. Ihr braucht vor allem Eines: Männer und Waffen. Doch woher sollt Ihr die Ressourcen für Waffen bekommen? Da braucht Ihr wohl wieder eine Schmuggelroute.
 
 ![56](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/71a8d496-75de-489f-82fe-b74591106c98)
 
 _**Kampagne IV - Mission 57 - Scheinfriede**_
 
-Missionstext folgt in Kürze
+Wesermündung, März 1295. Ihr sendet einen Teil der produzierten Waffen in Eure Provinzen, die darauf dringend angewiesen sind. Mit der verbleibenden Ausrüstung brecht Ihr auf und folgt der Küste nach Südosten. Nach einigen Tagesmärschen stoßt Ihr auf die ehemalige Heimatburg des Wolfs, die er sich hier, günstig gelegen am Weserdelta, dereinst errichtet hatte. Die Kaiserarmee hatte die Burg damals im Zuge einer Belagerung beschädigt, daher steht sie seit Jahren leer und verfällt. Hier werdet Ihr Euch niederlassen. Der Wolf, so heißt es, sei derzeit mit der Organisation seiner eigenen Angelegenheiten beschäftigt und habe weder Geld noch Zeit, um Euch zu bekämpfen. Setzt Euch hier fest und baut die Burg zu einer uneinnehmbaren Basis aus, von der Ihr dann alle weiteren Belagerungen im Reich des Wolfs koordinieren könnt. Das Flachland eignet sich für einen weiten Burggraben. Sichert Euch hierdurch ab, da der Wolf Euch belagern wird, sobald es ihm möglich ist.
 
 ![57](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/debafcfe-2584-47b1-be5a-0bf4a1ee4bfa)
 
 _**Kampagne IV - Mission 58 - Der verhängnisvolle Wald**_
 
-Missionstext folgt in Kürze
+Teutoburger Wald, März 1296. Es dauerte eine Weile, bis Euch der Wolf an der Wesermündung angriff. Von seiner gewaltigen Belagerungswut wart Ihr dann aber doch überrascht, hatte es doch geheißen, er habe derzeit Finanznot. Trotz allem: Ihr feiert Euren Sieg über den Wolf in diesem Landstrich und zieht dann mit einer großen Zahl von Mitstreitern über eine alte Römerstraße weiter nach Süden, durch die Kerngebiete des Wolfs, um seine Hauptburg von Westen her einzukreisen. Letztere befindet sich rund fünf Tagesmärsche ostwärts. Ihr erreicht den Teutoburger Wald, in welchem in grauer Vorzeit eine mächtige Armee auf tragische Weise den Tod fand. Eure Vorhut hat Bleibe auf Burg Falkenburg gefunden. Der Burgherr ist von Eurer Rebellion hoch begeistert und gewährt Euch Quartier. Eure Hauptarmee schlängelt sich gerade durch das Tal unterhalb der Burg als die Krähen zu kreischen beginnen und Pferdehufe donnern. Lastet der Fluch dieses Waldes auch auf Euch?
 
 ![58](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/d65c75e2-7c3d-4c54-9af6-c6203515e167)
 
 _**Kampagne IV - Mission 59 - Wenn zwei sich streiten**_
 
-Missionstext folgt in Kürze
+Burg Regenstein, September 1296. Wie damals das alte Römerheer fanden auch viele Eurer Soldaten im Teutoburger Wald den Tod. Doch gelang es Euch trotz schwerer Verluste, große Truppenverbände des Wolfs hier zu binden und schlussendlich aufzureiben. Dies hat sich in den Ländereien des Wolfs herumgesprochen, und Revolten und Aufstände überziehen seine Gebiete wie ein Pilz das morsche Holz. Auf diesen Moment habt Ihr gewartet. Ihr werdet die momentane Schwäche des Wolfs ausnutzen und den Kreis um seine Burg, die mächtige Asseburg, schließen. Südlich seiner Burg befinden sich die Ausläufer des Harzgebirges, welches Ihr bereits vor einiger Zeit durchzogen hattet. Hier thront Burg Regenstein auf einem Bergkamm. Diese strategisch wichtige Festung werdet Ihr Euch nun unter den Nagel reißen, um dem Wolf eines seiner letzten Bollwerke zu nehmen. Als Ihr eintrefft, ist das Umfeld der Burg Schauplatz eines Scharmützels zwischen Aufständischen und Wolfstruppen. Wenn zwei sich streiten ...
 
 ![59](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/c51e5c59-ec44-44cd-af75-09aec27567d2)
 
 _**Kampagne IV - Mission 60 - Eine unheilige Allianz**_
 
-Missionstext folgt in Kürze
+Auf dem Weg zur Asseburg, April 1297. Burg Regenstein ist Euer, und der Wolf ist nun von allen Seiten von seinem kollabierenden Reich abgeschnitten. Eines weiß er sicher: Ihr seid die größte Gefahr für den Fortbestand seiner Herrschaft. Daher wird er nun alles daran setzen, Euch ein für alle Mal zu beseitigen, wenn es ihm denn noch möglich ist. Hierzu sucht er fieberhaft nach neuen Verbündeten. Mit einem gut ausgerüsteten Heer beginnt Ihr den Marsch auf die Wolfsburg. Doch der Wolf kommt Euch zuvor und tritt Euch mit seiner Hauptstreitmacht entgegen. Als Ihr an eine Senke trefft, erkennt Ihr den Feind in der Ferne. Zu Eurer Verwunderung seht Ihr aber auch purpurfarbene Schilde zu Eurer Linken heranziehen. Ihr wisst, dass es sicher hierbei nur um den Papst handeln kann. Ist der Wolf etwa mit dem Papst eine Allianz eingegangen? Entscheidet sich an diesem trüben Apriltag die Zukunft Eurer Bewegung? Es scheint, dass Ihr stark in der Unterzahl seid. Bezieht umgehend Position!
 
 ![60](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/d629419a-90cb-4bc1-9dce-3bb05a3762ef)
 
 _**Kampagne IV - Mission 61 - Wolfsjagd**_
 
-Missionstext folgt in Kürze
+Asseburg, Mai 1297. Das Hauptheer des Wolfs ist nun aufgerieben, trotz des Einschreitens des Papstes. Über Euren neuen Feind aus Rom müsst Ihr Euch später kümmern, denn auch Eure Streitmacht ist beinahe vernichtet. Da Ihr vermutet, dass die Burg des Wolfs nun fast ungeschützt daliegt, marschiert Ihr weiter auf die Asseburg. Beim Eintreffen bemerkt Ihr aber Euren Irrtum: Die Burg ist stark bewacht und kaum einnehmbar. Errichtet ein Fort in der Nähe und beschafft Euch Ressourcen, um in die Belagerung einzutreten. Der Wolf wird mit Sicherheit alle verbleibenden Truppen zusammenrufen und gegen Euch aussenden, seid daher Tag und Nacht auf der Hut. Ihr beschließt, Eure Truppen nun in der königlichen Farbe "Rot" zu kleiden, die zuvor so schändlich durch das Schwein missbraucht wurde. Sobald der Wolf im Grabe liegt, steht Eurer Krönung zum Kaiser nichts mehr im Wege.
 
 ![61](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/c96c6d75-7d8d-4085-abff-5de9387a94fc)
 
