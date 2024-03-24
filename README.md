@@ -22,11 +22,15 @@ Ein Alpenpass, März 1275. Was nicht hätte geschehen dürfen, geschah: Ihr wurd
 
 ![2](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/298fc264-825f-4f8d-b2ee-5c0d05f576bd)
 
+---
+
 _**Kampagne I - Mission 03 - Der Weg ist versperrt**_
 
 Schlucht in den Alpen, März 1275. Die Wölfe lassen Euch keine Ruhe. Nach dem Gemetzel am Pass geratet Ihr in eine Schlucht, aus der Euch das Wolfsgeheul entgegenschallt. Ihr könnt nicht umkehren, da Ihr vermutet, dass man Euch nachstellt. Setzt dem Treiben der Wölfe ein Ende, damit Eure müden Männer Rast finden. Auf dem Hügel gibt es ein kleines Fort, dessen Bewohner sich offenbar vor den Wölfen verbarrikadiert haben. Vielleicht findet Ihr dort zeitweise Schutz.
 
 ![3](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/8743c4fd-cbbf-40ab-bfdb-25c4768c688a)
+
+---
 
 _**Kampagne I - Mission 04 - Die Moorklamm**_
 
@@ -34,11 +38,15 @@ Schlucht in den nördlichen Alpen, März 1275. Ihr brecht Euer Lager ab und mach
 
 ![4](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0b9532ff-5194-4fe9-b57c-4f7b0856cfdc)
 
+---
+
 _**Kampagne I - Mission 05 - Ein neuer Stützpunkt**_
 
 Nach einem weiteren Marsch voller Strapazen findet Ihr im langsam ausklingenden Winter in den Chiemgauer Alpen eine Jagdhütte in günstigem Terrain. Zieht Eure Nachhut von Süden zu Eurem neu aufgeschlagenen Lager. Hortet dann weitere Vorräte und produziert leichte Waffen. Da Eurem Hauptfeind, Herzog Beauregard, nun nun bewusst ist, dass hier im Süden aufständische Aktivitäten stattfinden, müsst Ihr Euch auf Gegenwehr vorbereiten.
 
 ![5](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5e30e98e-62e7-43e0-8b81-98436091466f)
+
+---
 
 _**Kampagne I - Mission 06 - Die zwei Flüsse**_
 
@@ -46,11 +54,15 @@ Fluss in den Alpen, Mai 1275. Die Bauern der REgion schließen sich Euch in grö
 
 ![6](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/52cd91d0-2b34-4296-8fd2-4de7f61b576e)
 
+---
+
 _**Kampagne I - Mission 07 - Der Turm auf der Klippe**_
 
 Alpen, April 1275. Das Banditenlager eignet sich nicht zum Verweilen. Ihr zieht daher weiter und findet tief in den Bergen eine zerklüftete Talgegend, in der sich ein kleines Lager von Truppen der Schlange befindet, welches von einer Palisade umgeben ist und günstig auf einer Klippe liegt. Dereinst führte eine Brücke über den wilden FLuss, von der aber nur noch Ruinen übrig sind. Such Euch einen Weg durch die Wildnis zum Lager und erobert es. Bleibt dann dort für eine Weile. Die Schlange wird von Eurer Aktion mit Sicherheit Wind bekommen, produziert daher erneut leichte Waffen und haltet das Fort.
 
 ![7](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/235e6153-dd9e-473d-bb29-0ba06e2af829)
+
+---
 
 _**Kampagne I - Mission 08 - Bayerische Äpfel**_
 
@@ -58,11 +70,15 @@ Chiemsee, Juni 1275. Ihr braucht mehr Ressourcen und Verpflegung, daher entschei
 
 ![8](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/05bfd733-27ad-46cb-87af-edc4674956b7)
 
+---
+
 _**Kampagne I - Mission 09 - Rettung in letzter Sekunde**_
 
 Nahe Schongau an der Lech, September 1275. Da die Angriffe der Schlange am Chiemsee zu häufig werden, wollt Ihr Euch wieder in Bewegung setzen. Ihr ruft Eure Berater zusammen und diskutiert die Marschroute. Man empfiehlt, in den ausgedehnten Waldgebieten des Schwarzwalds, etwa einen Wochenmarsch entfernt, Schutz zu suchen. Ihr stimmt dem zu und macht Euch auf den Weg. Nach drei Tagesmärschen überquert Ihr den Lech. Plötzlich bemerkt Ihr einen schwer bewaffneten schwarzen Reiter, der Euch nachstellt und aller Wahrscheinlichkeit von der Schlange gesendet wurde. In Panik rennen Eure Männer zum Fluss zurück, nur um das Getrappel weiterer Pferdehufe zu vernehmen. "Über den FLuss zum Fort!", ruft Ihr Euren verängstigten Kumpanen zu. Wenn Ihr dort Einlass findet, setzt Euch dort fest und befestigt die Anlage, am besten durch Verstärkung der Wälle. Ihr solltet zudem alle verfügbaren Männer zum Ausgraben eines möglichst breiten Burggrabens entsenden.
 
 ![9](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/7ada9ca4-23cb-4d83-9191-b5abe537546a)
+
+---
 
 _**Kampagne I - Mission 10 - Spiel mit dem Feuer**_
 
@@ -70,11 +86,15 @@ Schloss Lichtenstein, Februar 1276. Obwohl Ihr es schwer damit hattet, die Angri
 
 ![10](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/84a3159f-e897-4d4b-9abd-70b9d3947a74)
 
+---
+
 _**Kampagne I - Mission 11 - Ein neuer Freund**_
 
 Sigmaringen, Juni 1276. Der Mönch bei Lichtenstein war ein Betrüger und hatte Euch in einen Hinterhalt gelockt. Schlimmer noch: Die Schlange hat damit begonnen, Eure Burg weiträumig zu umzingeln und Eure Versorgungswege abzuschneiden. Ihr müsst daher abrücken und zieht erneut weiter nach Westen Richtung Schwarzwald. Dieser liegt im Territorium von Herzog de Puce, der wegen seiner Niederträchtigkeit gemeinhin auch als "die Ratte" bekannt ist. Auf halbem Wege begegnet Euch ein Trupp von Reitern des Fürsten von Sigmaringen. Diese sind in eiligem Ritt zur des Fürsten fast fertig errichteten Burg auf einer Anhöhe an der Donau. Die Schlange, so heißt es, wolle die Fertigstellung mit allen Mitteln vereiteln. Erneut gilt: Eine Hand wäscht die andere. Ihr werdet dem Fürsten dabei helfen, seine Burg zu vollenden und zu verteidigen, und er wird Euch Quartier gewähren und in Bau- und Schmiedekunst unterrichten. Sorgt für Ruhe in der Grafschaft und für eine gut gefüllte Burgkasse.
 
 ![11](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/c1e1a65c-2110-49c0-ab41-38d92d9737d0)
+
+---
 
 _**Kampagne I - Mission 12 - Der R(h)einfall**_
 
@@ -82,11 +102,15 @@ Schaffhausen, Oktober 1276. Ihr habt den Fürsten von Sigmaringen als Freund gew
 
 ![12](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/d0c87d39-5dff-497b-8bed-d965ad81c0bb)
 
+---
+
 _**Kampagne I - Mission 13 - Tief im Schwarzwald**_
 
 Schluchsee, Oktober 1276. Nach dem Hauptangriff der Ratte nutzt Ihr in der Nacht die Gelegenheit und flieht unbemerkt und in Eile in die Tiefen des Schwarzwalds. Nach einem Tagesmarsch finde Eure Kundschafter auf einem Berg nahe einem der großen Schwarzwaldseen eine verlassene Palisadenburg. Hier, fernab jeglicher Handelsposten, werdet Ihr Euer Lager aufschlagen und sofort die Produktion weiterer schwerer Waffen beginnen. Dies sollte es Euch ermöglichen, Eure militärtechnische Überlegenheit gegenüber der Ratte zu sichern. Überhaupt erscheint es aktuell sinnvoller, sich mit der Ratte anzulegen und die Auseinandersetzung mit der Schlange vorerst zu meiden.
 
 ![13](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/c20ecaa0-d0ae-43e1-bb4a-1c7596143f75)
+
+---
 
 _**Kampagne I - Mission 14 - Inferno**_
 
@@ -94,11 +118,15 @@ Schwarzwälder Westhang, Juni 1277. Die Wucht der Angriffe der Ratte in diesem e
 
 ![14](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/f147f9f9-3b2a-4854-b6f4-46d5daadfa15)
 
+---
+
 _**Kampagne I - Mission 15 - Streit unter Nachbarn**_
 
 Chateau de Lützelbourg/Chateau Rathsamhausen, Juli 1277. Dass De Puce Euch im Schwarzwald im lodernden FEuer rösten wollte, werdet Ihr ihm nicht vergessen. Mit ihm weedet Ihr nicht noch einmal verhandeln. Stattdessen marschiert Ihr ein paar Tagesmärsche nach Norden und hört von einer günstig gelegenen Doppelburg auf der anderen Rheinseite, die De Puce gehöre. Als Ihr die Belagerung von Chateau de Lützelbourg, der östlichen der beiden, beginnt, ist dessen Besatzung von Eurer Anwesenheit überrascht und verteidigt sich schlecht. Daher gelingt es Euch schon kurz darauf, in die Burg einzumarschieren. Verbarrikadiert Euch hier und nehmt auch die andere (besser bewachte) Burg ein. Sorgt dafür, dass der Dauerbeschuss aus letzterer schnellstmöglich aufhört. Noch dauert der Kampf in der Burg an, da erhaltet Ihr eine Hiobsbotschaft: Im Tal habe sich eine große Truppe von Soldaten des Frankenreichs versammelt, die De Puce zu Hilfe gekommen seien, um Euch die Burg wieder abzunehmen.
 
 ![15](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/647e5c82-a283-484a-b0ad-a783d361dbfc)
+
+---
 
 _**Kampagne I - Mission 16 - Bei Nacht und Nebel**_
 
@@ -106,11 +134,15 @@ Altleiningen/Pfalz, November 1277. Die Kämpfe bei Lützelbourg/Rathsamhausen wa
 
 ![16](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0f6682ee-3b2d-4dff-ab7a-788dafaca6e5)
 
+---
+
 _**Kampagne I - Mission 17 - Die alte Ruine**_
 
 Burgenmassiv Altdahn, November 1277. Bevor Ihr weiter in das Kernterritorium der Ratte vorstoßt, braucht Ihr mehr Truppen und Waffen, und vor allem eine starke Basis. Ihr werdet Euch eine mächtige Burg als dauerhaften Stützpunkt errichten und Finanzmittel schöpfen. Etwas weiter im Süden gibt es bei Altdahn ein verlassenes Burgenmassiv, welches sich hierzu gut eignet. Ihr habt jetzt einige Baufachleute angeheuert, die Euch beim Burgenbau behilflich sein werden. Zudem habt Ihr aus den vergangenen Schlachten Waffen erbeutet, darunter Morgensterne und Lederrüstungen, die Ihr nun selbst fachmännisch produzieren werdet. Seid vorsichtig: De Puce wird hier sicherlich bald auf den Plan treten. Es heißt, auch Truppen der Schlange seien in dieser Gegend, obwohl letztere zu De Puces Territorium gehört, neulich angetroffen worden. Auf dem Weg zur Burg schließen sich Euch einige Bauern an, um Euch zu dienen. Ob Ihr so viele Münder stopfen könnt?
 
 ![17](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/2a02f909-0045-406c-8d2f-f5e07c0e5e77)
+
+---
 
 _**Kampagne I - Mission 18 - Am Kühkopf**_
 
@@ -118,11 +150,15 @@ Südhessen, März 1278. De Puce geht aus den bisherigen Kämpfen geschwächt her
 
 ![18](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/c4a5636b-c00f-4d5b-8151-c1bf735a75de)
 
+---
+
 _**Kampagne I - Mission 19 - Dem Tod ins Auge blicken**_
 
 Ockenheim in Rheinhessen, Juni 1278. Die Hauptarmee der Ratte hat in den Sümpfen um Eier Lager herum eine schmähliche Niederlage erlitten. Nun ist die Zeit gekommen, gegen die Festung der Ratte zu marschieren. Doch Spione haben Euch verraten, dass die Ratte plant, Euch auf dem Weg zu ihrer Burg in offenen Feld zu begegnen. Sollte es dazu kommen, braucht Ihr mehr Männer. Daher sendet Ihr folgende Nachricht in Eure Provinzen aus: "Sturm auf die Burg der Ratte! Treffpunkt in sieben Tagen bei der Turmruine nahe Ockenheim!" Ockenheim ist eine kleine Siedlung des Feindes in einem weitgehend baumlosen Landstrich, etwa eine Stunde Fußmarsch von der Burg der Ratte entfernt. Pünktlich verlasst Ihr den Kühkopf. Als Ihr beinahe angekommen seid, seid Ihr hocherfreut, in der Ferne schon eine große Zahl Verbündeter zur Ruine ziehen zu sehen. Trefft sie dort und wartet dann vom Hügel aus auf die Truppen der Ratte, um sie vernichtend zu schlagen.
 
 ![19](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/496d4f20-7ebc-41f6-9d78-9ab7c4527b6d)
+
+---
 
 _**Kampagne I - Mission 20 - Die Rattenhöhle**_
 
@@ -130,11 +166,15 @@ Bingen, Juni 1278. Die Ratte, dieser Halunke! Irgendwie musste er von Eurem Tref
 
 ![20](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/85c7314b-5b69-4cd0-99ae-fbb01cc7271d)
 
+---
+
 _**Kampagne II - Mission 21 - Schlacht um den Frankenstein**_
 
 Burg Frankenstein, September 1278. Nach dem Sieg über die Ratte kleidet sich Eure aufstrebende Bewegung nun in blau, der Farbe des zerfallenen alten Reichs, um Euren Herrschaftsanspruch zu unterstreichen. Ihr verlasst Bingen, noch ehe weitere Truppen des Schweins bei den Ruinen der Rattenfestung eintreffen. Ein Marsch nach Südosten, zurück ins Territorium der Schlange, verspricht neue Perspektiven. An den Hängen des Odenwalds erreicht Euch ein Hilferuf von Graf Frankenstein. Da er die kürzlichen Tributforderungen der Schlange verweigert hat, belagert die Schlange seine Burg. Steht ihm bei und helft ihm dann, seine Kriegskasse für zukünftige Auseinandersetzungen weiter zu füllen. Einige Eurer Hauptleute halten die Burg für zu exponiert und glauben, dass Ihr Eure Kräfte überschätzt. Doch es wäre falsch, Graf Frankenstein die Hilfe nun zu verweigern.
 
 ![21](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/d4481157-d6b6-4b69-9236-be3e4f31a67f)
+
+---
 
 _**Kampagne II - Mission 22 - Die Festung am Hang**_
 
@@ -142,11 +182,15 @@ Schloss Auerbach, März 1279. Nach dem Sieg über die Schlange bei Burg Frankens
 
 ![22](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/f5c31aac-23f5-41e0-bc0a-8494df7f10d3)
 
+---
+
 _**Kampagne II - Mission 23 - Das Städtchen am Main**_
 
 Miltenberg, Mai 1280. Ihr habt den vorderen Odenwald unter Eure Kontrolle gebracht. Nun zieht Ihr es vor, weiter nach Osten zu marschieren. Ihr lasst einige Einheiten zur Sicherung in Auerbach zurück und reist mit einer kleinen Truppe in Richtung des Städtchens Miltenberg am Main. Die Stadt wurde von der Schlange kürzlich bis auf die Grundmauern niedergebrannt, aus bislang unbekannten Gründen. Die Burg wurde stark beschädigt und die Bewohner sind ins Umland geflohen. Schlagt in der leerstehenden Burg Euer Lager auf und baut die Stadt wieder auf, indem Ihr die Ruinen verwertet. Macht Euch beim Volk beliebt, vielleicht zahlt sich das aus. Das Gebiet wird noch immer von Truppen der Schlange (und nun auch Gesetzlosen) durchstreift, auf die Ihr Euch gefasst machen müsst. Eine gute Nachricht gibt es allerdings: Eure Bogenmacher haben inzwischen das Anfertigen von Armbrüsten erlernt. Diese solltet Ihr sofort herstellen.
 
 ![23](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/152d72d2-92d4-4563-aa05-5a16eccaaf13)
+
+---
 
 _**Kampagne II - Mission 24 - Eine Rast von kurzer Dauer**_
 
@@ -154,11 +198,15 @@ Schloss Mespelbrunn, März 1281. Nachdem sich Miltenberg dank Eurer Anwesenheit 
 
 ![24](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/eec69958-e341-4dff-af33-59855118cfa4)
 
+---
+
 _**Kampagne II - Mission 25 - Das Wirtshaus im Spessart**_
 
 Spessart, Juni 1281. Das Fiasko in Mespelbrunn war ein schwerer Schlag. Ein Verräter hatte vor Beginn der Belagerung Pech in der Burg ausgeschüttet und es dann bei Anbruch der Kämpfe in Brand gesetzt. Da Ihr von Euren Ländereien im Westen abgeschnitten seid, beschließt Ihr, Euch in den nördlichen Spessart abzusetzen und dort im Schutz des Waldes ein neues Lager zu errichten. Doch als wärt Ihr nicht schon genug gebeutelt, ruft Euch Eure Vorhut, als Ihr Euch dem bekannten Wirtshaus im Spessart nähert, nun entgegen, eine große Truppe der Schlange befände sich vor Euch auf dem Weg. Was nun? Verlasst sofort den Hohlweg, bevor Ihr gesehen werdet, und nutzt das Gelände, um Euch zu verteidigen!
 
 ![25](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/9c4e5d30-fcc8-4a48-9e60-ad7539606b28)
+
+---
 
 _**Kampagne II - Mission 26 - Verloren im Wald**_
 
@@ -166,11 +214,15 @@ Spessart, Juni 1281. Ihr seid wiederholt vom Unglück heimgesucht worden und hab
 
 ![26](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/4ae7b11c-4e57-4767-9b2f-5ab18a6da7db)
 
+---
+
 _**Kampagne II - Mission 27 - Das Waldschloss**_
 
 Osthessen, Oktober 1281. Ihr wurdet entdeckt, habt Eure Stellung aber wacker gehalten. Euren satten Goldüberschuss überreicht Ihr Euren Provinzen im Westen. Nun reist Ihr mit einer kleinen Truppe weiter nach Norden. Kurz später erfahrt Ihr, dass der Herzog von Fulda, der Euch wohlgesonnen ist, als Winterresidenz ein künstlerisch errichtetes Waldschloss besitzt. Da das Schloss auch nahe einem Handelsknotenpunkt liegt, hat die Schlange es schon lange darauf abgesehen und erdreistet sich nun, es zu belagern. Ihr werdet dies mit Gewalt verhindern und das Schloss so lange halten, bis die Schlange ihre Absichten aufgegeben hat. Zieht Eure Truppen schnell von Süden aus in die Burg. Bestimmt wird der Herzog es Euch danken.
 
 ![27](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/a813daf2-cbca-4e1e-9ad3-8d24862a118d)
+
+---
 
 _**Kampagne II - Mission 28 - Die schwarzen Raubritter**_
 
@@ -178,11 +230,15 @@ Vogelsberg, Februar 1282. Der Herzog von Fulda dankt Euch für die Verteidigung 
 
 ![28](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0b836566-8257-4bfe-9a3f-e9dc7e8acfc7)
 
+---
+
 _**Kampagne II - Mission 29 - Im Schatten des Vulkans**_
 
 Osthänge des Vogelsbergs, März 1282. Das Banditennest habt Ihr ausgeräuchert, doch noch immer kehrt in der Region keine Ruhe ein. Ihr geratet in eine karge Landschaft mit ein paar heißen Quellen, in der sich die Natur nur langsam von den Bränden erholt, die der Vulkan verursacht hat. Plötzlich trefft Ihr auf ein paar Hütten und werdet Zeugen, wie deren Bewohner grausam ermordet werden. Ihr könnt die Halunken zwar stellen, doch schreit dies nach Vergeltung. Ihr lasst Euch daher in dieser Gegend nieder, um eine Burg zu errichten. Dies wird kein leichtes Unterfangen sein, da das Schwein das Gebiet neuerdings beansprucht und einen Spähturm errichtet hat. Eure Aktivitäten werden daher nicht verborgen bleiben. Da es hier kaum Holz gibt, müsst Ihr es Euch irgendwie anders beschaffen.
 
 ![29](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/690cfcbe-4382-46d0-9b66-d0ee221fd76a)
+
+---
 
 _**Kampagne II - Mission 30 - Der verwunschene Pfad**_
 
@@ -190,11 +246,15 @@ Nördliche Rhön, Oktober 1282. Mit viel Krafteinsatz gelang es Euch, dem Schwei
 
 ![30](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/57249cf6-94fd-47d0-9eeb-9816aaa62ccb)
 
+---
+
 _**Kampagne II - Mission 31 - Wartburg**_
 
 Eisenach, Juni 1283. Euer Erfolg zieht immer mehr Aufmerksamkeit im Reich auf sich. Die Herren einzelner Grafschaften fassen zunehmend den Mut zur offenen Auseinandersetzung mit den verbleibenden drei Tyrannen. Eisenach hat sich gegen die Schlange aufgelehnt und die Truppen der Stadt haben die Belagerung der Wartburg begonnen, die der Schlange gehört. Da der Statthalter wenig militärische Erfahrung hat, bittet er Euch um Verstärkung und um die Befehligung seiner Truppen. Ihr nehmt das Angebot an und begebt Euch mit einer Kompanie Armbrustschützen und Pikenieren zur Wartburg. Die Schlange hatte kürzlich eine große Waffenlieferung dort deponiert. Es wäre äußerst hilfreich, diese mitsamt der Burg zu erlangen. Die Burg ist stark bewacht, daher sind Eure Soldaten veräögstigt, was sich auf ihre Moral niederschlägt. Wenn Ihr die Burg eingenommen habt, macht es Euch dort bequem und sorgt für einen wirtschaftlichen Aufschwung. Ihr seid nun auch in der Lage, Ballisten zu bauen.
 
 ![31](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5ceb4a8a-b7a2-4333-97f4-00ec55f1ad31)
+
+---
 
 _**Kampagne II - Mission 32 - Die Drei Gleichen**_
 
@@ -202,11 +262,15 @@ Gotha, März 1284. Mit der Wartburg konntet Ihr der Schlange einen weiteren wich
 
 ![32](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/72101fce-de2b-43cb-8820-25a64d1813fe)
 
+---
+
 _**Kampagne II - Mission 33 - Vor den Toren Erfurts**_
 
 Erfurt, April 1285. Die Drei Gleichen sind gefallen und gehören Euch. Nun nutzen auch die Bürger von Erfurt die Gunst der Stunde, um sich gegen die Herrschaft der Schlange zu erheben. Doch die Schlange und das Schwein wollen keine weiteren Präzedenzfälle. Sofort entsenden sie daher große Truppenkontingente, um die Stadt zu belagern. Leider habt Ihr derzeit keine nennenswerten Truppenverbände, um die Schlacht zu Euren Gunsten zu beeinflussen. In diesem Moment erreicht Euch frohe Kunde aus den bayerischen Provinzen, die bislang beinahe gänzlich unter der Gewalt der Schlange standen. Unter der Leitung der Stadt Nürnberg haben sich die Provinzen für unabhängig erklärt und der Schlange gleichzeitig den Krieg erklärt. Die Fürsten von Nürnberg, München und Augsburg haben von der Belagerung Erfurts gehört und unterstellen Eurem Kommando sofort eine Reiter-Hundertschaft. Als diese eintrifft, reitet Ihr in Eile nach Erfurt. Bei Eurer Ankunft ist die Belagerung schon in vollem Gange.
 
 ![33](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/aa2b3519-b19c-437f-b485-3eef1230b8a3)
+
+---
 
 _**Kampagne II - Mission 34 - Das Schlangennest**_
 
@@ -214,11 +278,15 @@ Kriebstein, Mai 1285. Erfurt konnte gehalten werden, doch die Verluste auf beide
 
 ![34](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/49ae2ab5-c7c7-49cf-abd3-900c68614c6c)
 
+---
+
 _**Kampagne III - Mission 35 - Eine neue Front**_
 
 Westerwald, November 1285. Noch in der Nacht der Burgeinnahme überprüft Ihr alle Erschlagenen und stellt mit großer Verwunderung fest, dass sich Beauregard nicht darunter befindet. Ihr folgert, dass er sich heimlich abgesetzt haben muss. Er ist nun mit Sicherheit über alle Berge, doch seine Macht scheint gebrochen. Daher werdet Ihr Euch behutsam dem Schwein zuwenden und seine Ostprovinzen belagern. Eine Ruine im Westerwald, zwei Wochenmärsche Richtung Westen, hat Euer Interesse geweckt. Ihre Besitzer sind vor langer Zeit der Pest zum Opfer gefallen und das Volk munkelt, die Burg sei verwünscht. Doch das beeindruckt Euch nicht. Erweitert die Burg zu einer starken Festung und behauptet Euch. Macht nun von Euren erweiterten Schmiedekenntnissen Gebrauch und stellt unbedingt schwere Waffen her, um den Armeen des Schweins etwas entgegen zu stellen. Wenn nötig, vertreibt die Heerscharen des Schweins mit steinewerfenden Mangen.
 
 ![35](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/3a641df1-8077-4002-b560-9e7468bfd8ab)
+
+---
 
 _**Kampagne III - Mission 36 - Verbrannte Erde**_
 
@@ -226,11 +294,15 @@ Kloster Marienburg, September 1286. Ihr habt dem Schwein widerstanden und werdet
 
 ![36](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/ebe0ae9e-7960-4249-af84-d91d7d11062b)
 
+---
+
 _**Kampagne III - Mission 37 - Der fette Bruder**_
 
 Burg Cochem, Juli 1287. Euer unerwartetes Auftauchen hier im Südwesten hat das Schwein in Rage gebracht. Ihr verlasst daher das Kloster, da es sich nicht dazu eignet, ausgewachsene Schlachten zu bestreiten, und marschiert das Moseltal nach Nordosten hinab. Bald trefft Ihr auf Burg Cochem, die auf einem Felsmassiv am Fluss liegt. Wie Ihr kürzlich erfahren habt, wird die Burg vom ruchlosen Bruder des Schweins gehalten, der eine Allianz mit lokalen Banditen eingegangen ist. Entreißt ihm die Burg und besetzt sie. Setzt alles daran, die Verteidiger führerlos zu machen, indem Ihr den Burgherrn umgehend ermordet. Kundschafter haben verlassene Belagerungsgeräte im Wald ausgemacht, welche Ihr nutzen könnt. Die hiesige Bevölkerung ist an den Konsum hoher Alkoholmengen gewöhnt. Um die Siedlung nach der Burgeinnahme zu halten, werdet Ihr daher nicht darum herum kommen, für genügend Nachschub zu sorgen. Zudem solltet Ihr Euch für alle Fälle einen Pechvorrat zulegen.
 
 ![37](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/24f9d44f-0955-47c3-b38d-bd2c3e17c4a7)
+
+---
 
 _**Kampagne III - Mission 38 - Kurzer Prozess**_
 
@@ -238,11 +310,15 @@ Hunsrück, April 1288. Eure Schlagkraft gegen die Banditen im Moseltal und insbe
 
 ![38](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/9807e5c0-c4ee-4b42-9381-d2f8e900c8c0)
 
+---
+
 _**Kampagne III - Mission 39 - Ein Stützpunkt im Grünen**_
 
 Burg Eltz, Mai 1288. Das Schwein ist voller Zorn über den Tod seines Bruders. Er hat geschworen, Euch dies heimzuzahlen. Ihr benötigt eine gut befestigte Burg, um Euch gegen die Haupttruppen des Schweins zu verteidigen. Hierzu bietet sich Burg Eltz an, die derzeit einem Statthalter des Schweins untersteht und gut geschützt an einem Flusslauf liegt. Ihr könnt diese Burg nicht ohne große Verluste einnehmen, doch haben Eure Männer vorige Nacht heimlich das Pech, das Ihr in Cochem gesammelt habe, in großen Mengen auf dem Gelände außerhalb der Burg verteilt. Setzt die Siedlung in Brand. Wendet Euch dann gegen die Burg und versucht, so wenige Verluste wie möglich zu erleiden. Ihr müsst mit einem umgehenden Gegenschlag des Schweins rechnen und braucht daher jeden Mann. Problematisch ist ferner, dass Ihr derzeit knapp bei Kasse seid und Euch eine ausgedehnte Belagerung kaum leisten könnt. Scheffelt ordentlich Gold, sobald die Burg Euch gehört.
 
 ![39](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/68489f1a-9140-4cf0-a474-ed36c5838cd9)
+
+---
 
 _**Kampagne III - Mission 40 - Zeit, das Zeitliche zu segnen**_
 
@@ -250,11 +326,15 @@ Burg Rheinstein, Oktober 1288. Burg Eltz ist Euer, doch wie aus dem Nichts trat 
 
 ![40](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/64376d13-c2f5-4771-b0aa-75f32c4e4da3)
 
+---
+
 _**Kampagne III - Mission 41 - Blutvergießen im Taunus**_
 
 Burg Eppstein, Oktober 1288. Herzog Beauregard ist endlich seiner gerechten Strafe zugeführt worden. Darüber hinaus habt Ihr die linksrheinischen Regionen dem Schwein abgetrotzt. Ihr überquert nun mit einem großen Truppenverband den Rhein, um auch die geräumigen Nordostprovinzen des Schweins unter Eure Kontrolle zu bekommen. In den überwiegend bewaldeten Gebieten unterhält Herzog Truffe eine Reihe schwer bewachter Festungen. Diese gilt es nun zu erobern, bevor Ihr seine Hauptburg weiter nördlich am Rhein belagern könnt. Burg Eppstein, eine stark gesicherte Höhenburg mit zahlreichen Verteidigungswällen, liegt Euch am nächsten. Eine starke Garnison des Schweins befindet sich derzeit auf dem Weg zur Burg. Schneidet dem Tross den Weg ab, bevor er in der Burg Quartier beziehen kann. Ergreift sodann Besitz von der Burg, doch zerstört sie nur in dem Maße, wie es nötig ist. Ihr werdet das Gemäuer noch brauchen.
 
 ![41](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/241036b1-f0c6-48ca-940c-e65087d63e2f)
+
+---
 
 _**Kampagne III - Mission 42 - Das alte Römerkastell**_
 
@@ -262,11 +342,15 @@ Saalburg, März 1289. Im ausklingenden Winter marschiert Ihr auf den windigen Be
 
 ![42](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/69699d39-f35e-4fd2-b004-ec836e045c51)
 
+---
+
 _**Kampagne III - Mission 43 - Hackfleisch**_
 
 Taunus, Oktober 1289. Nachdem Ihr die Saalburg gesichert habt, rückt Ihr mit einer großen Armee und einer Reitertruppe, die sich spontan zu Eurer Unterstützung eingefunden hat, weiter in die Territorien des Schweins nach Nordosten vor. Als Ihr eine Lichtung im Hochtaunus passiert, wird Euch klar, dass Ihr umzingelt seid: Rote und schwarze Uniformen blitzen auf beiden Seiten durch das Dickicht am Waldrand auf. Herzog Truffe muss Euch ausspioniert und den Herzog Volpe, wegen seiner Intelligenz und Gerissenheit auch "der Wolf" genannt, zu Hilfe gerufen haben. Euch droht eine Schlacht an zwei Fronten.
 
 ![43](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/4adc1dc2-cef1-4e5a-8597-1582a8d51afa)
+
+---
 
 _**Kampagne III - Mission 44 - Vom Mühlstein zerrieben**_
 
@@ -274,11 +358,15 @@ Burg Braunfels, Oktober 1289. Der Hinterhalt im Taunus hat Eure Planungen meilen
 
 ![44](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/7ae70575-fed9-4644-a703-bdedd9672298)
 
+---
+
 _**Kampagne III - Mission 45 - Die letzte Bastion**_
 
 Burg Altena, März 1291. Trotz heftiger Angriffe des Feindes konntet Ihr Euch in Braunfels festsetzen und neue Kraft schöpfen. Der Wolf musste sich zurückziehen, um Aufstände in seinen eigenen Provinzen zurückzuschlagen. Dies spornt Euch nun dazu an, die nördlichen Waldländer endgültig von der Gegenwart des Schweins zu befreien. Burg Altena ist die letzte Festung in der Hand des Schweins in dieser Gegend. Nehmt sie ein und zieht dann schnurstracks weiter in Richtung der Hauptburg des Schweins. Burg Altena ist schwer zugänglich. Ihr werdet Euch durch mehrere schwer bewachte Zwinger kämpfen müssen. Ihr sendet Boten in die umliegenden Landstriche aus, um Unterstützung anzuwerben. Verstärkung sollte in Kürze eintreffen.
 
 ![45](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/2ebb9f7a-1c46-4ab5-8259-a5462ad9c031)
+
+---
 
 _**Kampagne III - Mission 46 - Geschrei an der Loreley**_
 
@@ -286,11 +374,15 @@ Loreleyfelsen am Rhein, März 1291. Der Widerstand im Norden ist gebrochen. Ihr 
 
 ![46](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/981f1aac-1d56-4df3-9fbe-9531fe1fd48f)
 
+---
+
 _**Kampagne III - Mission 47 - Schweinebraten**_
 
 Burg Rheinfels, März 1291. Die Schlacht an der Loreley war heftig und hat sowohl dem Schwein als auch Euch hohe Verluste beigebracht. Die verbleibenden Schweinstruppen verlassen gegen Ende der Kämpfe fluchtartig das Schlachtfeld. Ihr setzt den Fliehenden nach, doch reicht Eure Truppenstärke nicht aus, es direkt mit der Burg des Schweins aufzunehmen. Ihr werdet die Burg belagern. Auf einem hohen Felsen am anderen Flussufer befindet sich Burg Katz, deren Burgherr Euch bereitwillig seine Burg zur Verfügung stellt. Quartiert Euch hier ein, werbt weitere Truppen an und führt Herzog Truffe dann ein für alle Mal seiner gerechten Strafe zu. Ein Problem habt Ihr jedoch: Burg Katz ist sehr klein.
 
 ![47](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/0abeafc1-2c63-46eb-96d6-e82533edc871)
+
+---
 
 _**Kampagne IV - Mission 48 - Wolfsheulen**_
 
@@ -298,11 +390,15 @@ Brocken, November 1291. Herzog Truffe ist Geschichte. Doch die Einnahme seiner B
 
 ![48](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/6bbe7289-8fb6-42d2-92bb-e4b080a1660d)
 
+---
+
 _**Kampagne IV - Mission 49 - Überraschungsangriff**_
 
 Burg Hohnstein, Südharz, März 1292. Ihr habt erstmals Wolfsterritorium besetzt, doch der Brocken eignet sich nicht für weitere Auseinandersetzungen, da die Nahrungsmittelversorgung hier zu schwierig ist. Ihr fasst daher den Plan, weiterzumarschieren und den Wolf dort zu schlagen, wo es ihn am Empfindlichsten trifft: Bei seiner Rüstungsindustrie. Ihr wisst, dass der Wolf an den Südhängen des Harzgebirges um Burg Hohnstein herum einige Minen unterhält, die mehrere Waffenschmieden in der Burg versorgen. Ihr wollt die Burg in einem Überraschungsangriff einnehmen, den dortigen Statthalter beseitigen, und die vorhandene Industrie dann für Eure eigenen Zwecke nutzen. Schnurstracks reist Ihr ab. Der Wolf wird Euch hier sicherlich nicht vermuten, denn Burg Hohnstein liegt weit südlich der Marschroute, die euer Feind voraussehen würde. Ihr rechnet damit, die Wachmannschaft überrumpeln zu können.
 
 ![49](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/81367eea-3511-4b62-8fa0-67dd1ac85e2e)
+
+---
 
 _**Kampagne IV - Mission 50 - Der Bruchwald**_
 
@@ -310,11 +406,15 @@ Roßlau, August 1292. Wie Ihr Euch getäuscht hattet! Als Ihr Burg Hohnstein err
 
 ![50](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/35c78aa8-28d4-4045-95ca-f15aa38886ca)
 
+---
+
 _**Kampagne IV - Mission 51 - Heidekrieg**_
 
 Kloster Lüne, August 1292. Ihr seid nun relativ abgeschieden in den Ostprovinzen des Wolfs. Da Ihr noch in keinster Weise dazu bereit seid, gegen seine Hauptburg zu marschieren, beschließt Ihr, ihn schrittweise einzukreisen. Daher bewegt Ihr Euch einige Tagesmärsche nach Nordwesten. Ihr befindet Euch nun in der Nähe von Kloster Lüne, einer großen Klosteranlage mit einem Euch freundlich gesinnten Klosterherrn. Die Anlage war dereinst von einem Fluss umgeben, der derzeit aber beinahe trocken liegt. Ihr erfahrt, dass das Kloster in diesen Minuten unter Beschuss durch Wolfstruppen stehe und dringend Hilfe brauche. Ihr bewegt Eure Männer umgehend zum Kloster, doch als Ihr eintrefft, steht schon alles in Flammen. Was nun? Rettet, was zu retten ist, und seht dann zu, dass das Kloster wieder aufgebaut wird.
 
 ![51](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/5451a440-1bf2-4173-ba02-ba389577140c)
+
+---
 
 _**Kampagne IV - Mission 52 - Durch die Hintertür**_
 
@@ -322,11 +422,15 @@ Bomlitz in der Heide, Februar 1293. Kloster Lüne hat sich als guter Standort be
 
 ![52](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/da60ecb2-60db-4174-a7b1-50699de6a686)
 
+---
+
 _**Kampagne IV - Mission 53 - Die Sümpfe des Verderbens**_
 
 Ein Moorgebiet in der nördlichen Lüneburger Heide, Juni 1293. Der Wolf sendet immer stärkere Truppenverbände, die Euer Holzfort zunehmend ramponieren. Sich hinter Holzwällen vor den Katapulten des Wolfs verbergen zu wollen, war ohnehin nie Euer Plan. Ihr geht daher der direkten Auseinandersetzung erneut aus dem Weg und setzt Euch nach Norden ab. Nun setzen aber heftige Regenfälle ein, die das Moor, das Ihr Gerade passiert, anschwellen lassen, sodass keine Passage mehr möglich ist. Eure Truppen bleiben stecken, und an Weiterreise ist nicht zu denken. Ihr seid in der Falle. Natürlich ist es nur eine Frage der Zeit, bis Euch der Wolf auch hier aufspürt. Ihr seid ihm auf dem Präsentierteller ausgeliefert. Was nun? Wie soll man sich in diesem Sumpfland verbarrikadieren? Zu allem Übel kommt noch hinzu, dass die Stechmücken und das unreine Wasser Eure Männer krank machen. Irrlichter erleuchten Euch den Weg durch das Dickicht. Werdet Ihr in diesem Morast jämmerlich verrecken?
 
 ![53](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/6404763c-b0dc-4a4a-a48e-9733f46d287a)
+
+---
 
 _**Kampagne IV - Mission 54 - Pech in der Glücksburg**_
 
@@ -334,11 +438,15 @@ Glücksburg, Oktober 1293. Dankenswerterweise gab es in Eurer Umgebung reichlich
 
 ![54](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/33c92bb8-b99e-4a14-bad6-71b27eb29c54)
 
+---
+
 _**Kampagne IV - Mission 55 - Zerplatzte Träume**_
 
 Helgoland, März 1294. Natürlich hatten die Wikinger Euch an den Wolf verraten, und es dauerte nicht lange, bis er vor Euren Toren stand. Doch nun beginnt Euer schlimmster Alptraum. Als Ihr Euch nach dem letzten Scharmützel in Eurem Bergfried zur Ruhe gelegt hattet, becherten Eure Wachen in der Taverne. Mehrere Wikinger müssen sich dann irgendwie Zutritt zur Burg verschafft haben, vielleicht mit einem Seil in der Dunkelheit von der Seeseite aus, in Euer Gemach eingedrungen sein, Euch bewusstlos geschlagen, und dann entführt haben. Als Ihr blutverschmiert und mit dröhnendem Kopf aufwacht, vernehmt Ihr die Brocken der nordischen Sprache Eurer Bewacher und findet Euch gefesselt in einer kleinen Burganlage auf einer stark zerklüfteten Insel. Was um alles in der Welt ist geschehen? Wer soll Euch hier finden? Wissen Eure Männer überhaupt, wo Ihr seid? Ihr ahnt, dass dies Euer Ende sein wird, es sei denn, es geschieht ein Wunder.
 
 ![55](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/a11f93a7-8068-4d1a-af80-4948a10cefb8)
+
+---
 
 _**Kampagne IV - Mission 56 - Weit ab vom Schuss**_
 
@@ -346,11 +454,15 @@ Nordseeküste, September 1294. Nach monatelangem Warten gelang es Euren Männern
 
 ![56](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/71a8d496-75de-489f-82fe-b74591106c98)
 
+---
+
 _**Kampagne IV - Mission 57 - Scheinfriede**_
 
 Wesermündung, März 1295. Ihr sendet einen Teil der produzierten Waffen in Eure Provinzen, die darauf dringend angewiesen sind. Mit der verbleibenden Ausrüstung brecht Ihr auf und folgt der Küste nach Südosten. Nach einigen Tagesmärschen stoßt Ihr auf die ehemalige Heimatburg des Wolfs, die er sich hier, günstig gelegen am Weserdelta, dereinst errichtet hatte. Die Kaiserarmee hatte die Burg damals im Zuge einer Belagerung beschädigt, daher steht sie seit Jahren leer und verfällt. Hier werdet Ihr Euch niederlassen. Der Wolf, so heißt es, sei derzeit mit der Organisation seiner eigenen Angelegenheiten beschäftigt und habe weder Geld noch Zeit, um Euch zu bekämpfen. Setzt Euch hier fest und baut die Burg zu einer uneinnehmbaren Basis aus, von der Ihr dann alle weiteren Belagerungen im Reich des Wolfs koordinieren könnt. Das Flachland eignet sich für einen weiten Burggraben. Sichert Euch hierdurch ab, da der Wolf Euch belagern wird, sobald es ihm möglich ist.
 
 ![57](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/debafcfe-2584-47b1-be5a-0bf4a1ee4bfa)
+
+---
 
 _**Kampagne IV - Mission 58 - Der verhängnisvolle Wald**_
 
@@ -358,11 +470,15 @@ Teutoburger Wald, März 1296. Es dauerte eine Weile, bis Euch der Wolf an der We
 
 ![58](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/d65c75e2-7c3d-4c54-9af6-c6203515e167)
 
+---
+
 _**Kampagne IV - Mission 59 - Wenn zwei sich streiten**_
 
 Burg Regenstein, September 1296. Wie damals das alte Römerheer fanden auch viele Eurer Soldaten im Teutoburger Wald den Tod. Doch gelang es Euch trotz schwerer Verluste, große Truppenverbände des Wolfs hier zu binden und schlussendlich aufzureiben. Dies hat sich in den Ländereien des Wolfs herumgesprochen, und Revolten und Aufstände überziehen seine Gebiete wie ein Pilz das morsche Holz. Auf diesen Moment habt Ihr gewartet. Ihr werdet die momentane Schwäche des Wolfs ausnutzen und den Kreis um seine Burg, die mächtige Asseburg, schließen. Südlich seiner Burg befinden sich die Ausläufer des Harzgebirges, welches Ihr bereits vor einiger Zeit durchzogen hattet. Hier thront Burg Regenstein auf einem Bergkamm. Diese strategisch wichtige Festung werdet Ihr Euch nun unter den Nagel reißen, um dem Wolf eines seiner letzten Bollwerke zu nehmen. Als Ihr eintrefft, ist das Umfeld der Burg Schauplatz eines Scharmützels zwischen Aufständischen und Wolfstruppen. Wenn zwei sich streiten ...
 
 ![59](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/c51e5c59-ec44-44cd-af75-09aec27567d2)
+
+---
 
 _**Kampagne IV - Mission 60 - Eine unheilige Allianz**_
 
@@ -370,11 +486,15 @@ Auf dem Weg zur Asseburg, April 1297. Burg Regenstein ist Euer, und der Wolf ist
 
 ![60](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/d629419a-90cb-4bc1-9dce-3bb05a3762ef)
 
+---
+
 _**Kampagne IV - Mission 61 - Wolfsjagd**_
 
 Asseburg, Mai 1297. Das Hauptheer des Wolfs ist nun aufgerieben, trotz des Einschreitens des Papstes. Über Euren neuen Feind aus Rom müsst Ihr Euch später kümmern, denn auch Eure Streitmacht ist beinahe vernichtet. Da Ihr vermutet, dass die Burg des Wolfs nun fast ungeschützt daliegt, marschiert Ihr weiter auf die Asseburg. Beim Eintreffen bemerkt Ihr aber Euren Irrtum: Die Burg ist stark bewacht und kaum einnehmbar. Errichtet ein Fort in der Nähe und beschafft Euch Ressourcen, um in die Belagerung einzutreten. Der Wolf wird mit Sicherheit alle verbleibenden Truppen zusammenrufen und gegen Euch aussenden, seid daher Tag und Nacht auf der Hut. Ihr beschließt, Eure Truppen nun in der königlichen Farbe "Rot" zu kleiden, die zuvor so schändlich durch das Schwein missbraucht wurde. Sobald der Wolf im Grabe liegt, steht Eurer Krönung zum Kaiser nichts mehr im Wege. Es sei denn, Rom stellt sich quer.
 
 ![61](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/c96c6d75-7d8d-4085-abff-5de9387a94fc)
+
+---
 
 _**Kampagne IV - Mission 62 - Hochverrat in Hohenzollern**_
 
@@ -382,11 +502,15 @@ Missionstext folgt in Kürze
 
 ![62](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/cc1feda3-49aa-4d35-a81d-f306269a597c)
 
+---
+
 _**Kampagne IV - Mission 63 - Der letzte Tyrann**_
 
 Missionstext folgt in Kürze
 
 ![63](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/5ad7659f-dabb-48df-a2a3-ffc8290c981d)
+
+---
 
 _**Kampagne V - Mission 64 - Die schandbaren Söhne**_
 
@@ -394,11 +518,15 @@ Missionstext folgt in Kürze
 
 ![64](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/1c7c68e1-cfef-4313-a790-d3b849be51eb)
 
+---
+
 _**Kampagne V - Mission 65 - Die Revanche der Separatisten**_
 
 Missionstext folgt in Kürze
 
 ![65](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/c0faa5c8-42e0-40b7-aa3a-3c28eebc62ee)
+
+---
 
 _**Kampagne V - Mission 66 - Der übergriffige Nachbar**_
 
@@ -406,11 +534,15 @@ Missionstext folgt in Kürze
 
 ![66](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/36a89ec4-b940-42ac-821d-4c8de612df1b)
 
+---
+
 _**Kampagne V - Mission 67 - Die Schlacht auf dem Großen Arber**_
 
 Missionstext folgt in Kürze
 
 ![67](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/041aa195-7b56-4bbd-b60b-51bb31e0e55c)
+
+---
 
 _**Kampagne V - Mission 68 - Feinde des Kreuzes**_
 
@@ -418,11 +550,15 @@ Missionstext folgt in Kürze
 
 ![68](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/6bfa2b38-f52e-43da-a9ed-e34cd8cfd663)
 
+---
+
 _**Kampagne V - Mission 69 - Krawall in Hambach**_
 
 Missionstext folgt in Kürze
 
 ![69](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/a768ddef-487f-463e-a508-dab0212ff618)
+
+---
 
 _**Kampagne V - Mission 70 - Die Wiedergeburt des Reichs**_
 
