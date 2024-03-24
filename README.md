@@ -14,6 +14,8 @@ Watzmann, Januar 1275. Wie ein sterbender Baum ist die alte Ordnung des Reichs z
 
 ![1](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-English/assets/152847215/95630127-420d-4b8f-b0b4-a6b67cdfd7e9)
 
+---
+
 _**Kampagne I - Mission 02 - Der Pass der zwei Türme**_
 
 Ein Alpenpass, März 1275. Was nicht hätte geschehen dürfen, geschah: Ihr wurdet von einem Spähtrupp von Herzog Beauregard, der wegen seiner Durchtriebenheit auch "die Schlange" genannt wird, entdeckt. Zwar konntet Ihr den Trupp unschädlich machen, doch müsst Ihr Euer Lager nun eilig verlassen. Ihr gelangt an einen Bergpass mit zwei alten Wachtürmen. Kaum habt Ihr die Kuppe erreicht, seht Ihr mit Entsetzen einen Spähtrupp der Schlange auf Euch zukommen, der vor einem Wolfsrudel zu fliehen scheint. Ihr müsst sofort Schutz suchen, vielleicht auf einem der Türme?
