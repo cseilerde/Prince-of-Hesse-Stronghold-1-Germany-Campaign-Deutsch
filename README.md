@@ -50,7 +50,7 @@ Nach einem weiteren Marsch voller Strapazen findet Ihr im langsam ausklingenden 
 
 _**Kampagne I - Mission 06 - Die zwei Flüsse**_
 
-Fluss in den Alpen, Mai 1275. Die Bauern der REgion schließen sich Euch in größerer Zahl an. Gestärkt zieht Ihr weiter nach Norden. Man berichtet Euch, dass sich auf der anderen Seite eines nahegelegenen Flusses ein Banditenlager befinde, das mit der Schlange kooperiere. Ihr zögert nicht lange und entscheidet Euch, den Aktivitäten dieser Gesetzlosen einen Riegel vorzuschieben.
+Fluss in den Alpen, Mai 1275. Die Bauern der Region schließen sich Euch in größerer Zahl an. Gestärkt zieht Ihr weiter nach Norden. Man berichtet Euch, dass sich auf der anderen Seite eines nahegelegenen Flusses ein Banditenlager befinde, das mit der Schlange kooperiere. Ihr zögert nicht lange und entscheidet Euch, den Aktivitäten dieser Gesetzlosen einen Riegel vorzuschieben.
 
 ![6](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/c587c6e6-1f26-4c89-8853-73f6b166807e)
 
@@ -58,7 +58,7 @@ Fluss in den Alpen, Mai 1275. Die Bauern der REgion schließen sich Euch in grö
 
 _**Kampagne I - Mission 07 - Der Turm auf der Klippe**_
 
-Alpen, April 1275. Das Banditenlager eignet sich nicht zum Verweilen. Ihr zieht daher weiter und findet tief in den Bergen eine zerklüftete Talgegend, in der sich ein kleines Lager von Truppen der Schlange befindet, welches von einer Palisade umgeben ist und günstig auf einer Klippe liegt. Dereinst führte eine Brücke über den wilden FLuss, von der aber nur noch Ruinen übrig sind. Such Euch einen Weg durch die Wildnis zum Lager und erobert es. Bleibt dann dort für eine Weile. Die Schlange wird von Eurer Aktion mit Sicherheit Wind bekommen, produziert daher erneut leichte Waffen und haltet das Fort.
+Alpen, April 1275. Das Banditenlager eignet sich nicht zum Verweilen. Ihr zieht daher weiter und findet tief in den Bergen eine zerklüftete Talgegend, in der sich ein kleines Lager von Truppen der Schlange befindet, welches von einer Palisade umgeben ist und günstig auf einer Klippe liegt. Dereinst führte eine Brücke über den wilden Fluss, von der aber nur noch Ruinen übrig sind. Such Euch einen Weg durch die Wildnis zum Lager und erobert es. Bleibt dann dort für eine Weile. Die Schlange wird von Eurer Aktion mit Sicherheit Wind bekommen, produziert daher erneut leichte Waffen und haltet das Fort.
 
 ![7](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/26a7d85b-49d2-4dfd-b6a3-449e05f331da)
 
@@ -74,7 +74,7 @@ Chiemsee, Juni 1275. Ihr braucht mehr Ressourcen und Verpflegung, daher entschei
 
 _**Kampagne I - Mission 09 - Rettung in letzter Sekunde**_
 
-Nahe Schongau an der Lech, September 1275. Da die Angriffe der Schlange am Chiemsee zu häufig werden, wollt Ihr Euch wieder in Bewegung setzen. Ihr ruft Eure Berater zusammen und diskutiert die Marschroute. Man empfiehlt, in den ausgedehnten Waldgebieten des Schwarzwalds, etwa einen Wochenmarsch entfernt, Schutz zu suchen. Ihr stimmt dem zu und macht Euch auf den Weg. Nach drei Tagesmärschen überquert Ihr den Lech. Plötzlich bemerkt Ihr einen schwer bewaffneten schwarzen Reiter, der Euch nachstellt und aller Wahrscheinlichkeit von der Schlange gesendet wurde. In Panik rennen Eure Männer zum Fluss zurück, nur um das Getrappel weiterer Pferdehufe zu vernehmen. "Über den FLuss zum Fort!", ruft Ihr Euren verängstigten Kumpanen zu. Wenn Ihr dort Einlass findet, setzt Euch dort fest und befestigt die Anlage, am besten durch Verstärkung der Wälle. Ihr solltet zudem alle verfügbaren Männer zum Ausgraben eines möglichst breiten Burggrabens entsenden.
+Nahe Schongau an der Lech, September 1275. Da die Angriffe der Schlange am Chiemsee zu häufig werden, wollt Ihr Euch wieder in Bewegung setzen. Ihr ruft Eure Berater zusammen und diskutiert die Marschroute. Man empfiehlt, in den ausgedehnten Waldgebieten des Schwarzwalds, etwa einen Wochenmarsch entfernt, Schutz zu suchen. Ihr stimmt dem zu und macht Euch auf den Weg. Nach drei Tagesmärschen überquert Ihr den Lech. Plötzlich bemerkt Ihr einen schwer bewaffneten schwarzen Reiter, der Euch nachstellt und aller Wahrscheinlichkeit von der Schlange gesendet wurde. In Panik rennen Eure Männer zum Fluss zurück, nur um das Getrappel weiterer Pferdehufe zu vernehmen. "Über den Fluss zum Fort!", ruft Ihr Euren verängstigten Kumpanen zu. Wenn Ihr dort Einlass findet, setzt Euch dort fest und befestigt die Anlage, am besten durch Verstärkung der Wälle. Ihr solltet zudem alle verfügbaren Männer zum Ausgraben eines möglichst breiten Burggrabens entsenden.
 
 ![9](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/e491da09-5b76-4ee6-aaa9-59f168f084c8)
 
