@@ -1,4 +1,4 @@
-Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Ich bewundere den Reifegrad strategischen Denkens, den Stronghold dem Spieler abverlangt, und noch mehr den Karteneditor, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
+Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Mir gefällt der Reifegrad strategischen Denkens, den Stronghold dem Spieler abverlangt, und noch mehr den Karteneditor, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
 
 In Anerkennung der großartigen Werke, die viele Kartenersteller schon der Stronghold-Community übergeben haben, habe ich insgesamt 70 Missionen kreiert, in welchen das mittelalterliche Deutschland erobert werden kann. Meine Absicht dabei war, den Spielern einen Einblick in die Schönheit meines Heimatlandes Deutschland zu gewähren und die Vielfalt von Deutschlands Burgen zu erleben. 
 
@@ -546,7 +546,7 @@ Großer Arber, Bayerischer Wald, Oktober 1300. Nachdem Ihr die Region um Nürnbe
 
 _**Kampagne V - Mission 68 - Feinde des Kreuzes**_
 
-Missionstext folgt in Kürze
+Coburg, Oktober 1300. Nach dem knappen Sieg im Bayerischen Wald beginnt Ihr die Planungen für Eure Wahl zum Kaiser in Frankfurt. Doch bevor Ihr dorthin abreisen könnt, erhaltet Ihr erneut schlechte Nachrichten. Der Papst habe endgültig beschlossen, Euch die Kaiserwürde zu verweigern. Daher habe er an seinen Verbündeten, den Herzog von Böhmen, massive Truppenkontingente entsendet, die dieser befehligen solle, um in Eurem Reich Chaos zu stiften. Ihr schickt sofort Eure Haupttruppen an die Unruheherde, insbesondere nach Coburg, wo der Feind schon vor den Toren steht. Eure Reitertruppe erreicht die Burg gerade noch rechtzeitig. Für den Rest Eurer Soldaten ist es zu spät. Sie müssen es mit dem Feind vor den Burgtoren aufnehmen, wo Letzterer eine Brandmauer errichtet hat, um sich abzuschirmen. Wird Coburg fallen? Wann kehrt endlich Ruhe im Reich ein?
 
 ![68](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/320d91b9-1f80-4f80-ac83-0a707e53699d)
 
@@ -554,7 +554,7 @@ Missionstext folgt in Kürze
 
 _**Kampagne V - Mission 69 - Krawall in Hambach**_
 
-Missionstext folgt in Kürze
+Burg Hambach, November 1300. Nach dem Sieg in Coburg hattet Ihr gehofft, endlich die Wahl zum Kaiser antreten zu können. Doch weit gefehlt! Ein Unglück kommt selten allein, und schon gar nicht, wenn es mächtigen Feinden darum geht, Eure Kaiserwahl zu sabotieren. Ihr seid von Widersachern umgeben, und Rast könnt Ihr Euch nun nicht gönnen. As wären Böhmen im Osten und der Papst im Süden nicht schon Last genug, erklärt Euch nun das katholische Frankreich offiziell den Krieg, belagert Burg Hambach in der Pfalz, und setzt dort alles in Brand. Steht unbedingt dem Burgherrn bei und sorgt dafür, dass Hambach als Ort eines strahlenden Sieges in die Geschichtsbücher eingeht. Harrt dort dann so lange aus, bis der Feind das Interesse an der Auseinandersetzung verliert.
 
 ![69](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/023ecd7d-f8b1-4cae-a17d-f2859475afc7)
 
@@ -562,7 +562,7 @@ Missionstext folgt in Kürze
 
 _**Kampagne V - Mission 70 - Die Wiedergeburt des Reichs**_
 
-Missionstext folgt in Kürze
+Frankfurt, Dezember 1300. Nach dem Sieg in Hambach erreicht Ihr Frankfurt, und die Feierlichkeiten zur Kaiserwahl sind in vollem Gange. Doch die Zeremonie kommt zu einem jähen Ende, als Euch die Nachricht erreicht, dass in der Stadt ein Feuer ausgebrochen sei. Von da an häufen sich die Hiobsbotschaften. Zu allem Unglück wird Euch nun auch noch zugetragen, dass sich drei mächtige Armeen im Anmarsch befänden, um Eure Kaiserkrönung zu verhindern und die Stadt dem Erdboden gleich zu machen. Ihr ahnt schon, dass es sich dabei nur wieder um den Papst, den König von Böhmen und die Franzosen handeln kann. Rettet die Stadt und Euch selbst um jeden Preis und behauptet Euch in der Schlacht. Baut die Stadt sodann zu einer Kaiserstadt aus, die ihres Namens gerecht wird. Führt dem ganzen Reich die Schönheit Eurer Baukunst vor Augen. Und, nicht zuletzt: Sorgt für eine anhemessene Ausstattung Eurer kaiserlichen Armee, damit Euer Reich noch lange in Frieden gedeihen kann.
 
 ![70](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/36ee18b9-768f-4526-aee1-8de2be03a799)
 
