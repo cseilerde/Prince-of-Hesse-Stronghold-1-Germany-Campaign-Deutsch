@@ -8,6 +8,8 @@ Die Missionen gliedern sich in 5 Unterkampagnen und beinhalten dutzende naturget
 
 Auf "Sehr schwer" sind die meisten meiner Missionen schwierig zu bewältigen, aber schaffbar. Wie im Mittelalter setzt der Sieg oft voraus, dass man seine Burg klug baut und verteidigt.
 
+---
+
 _**Kampagne I - Mission 01 - Flucht in die Berge**_
 
 Watzmann, Januar 1275. Wie ein sterbender Baum ist die alte Ordnung des Reichs zu ihrem Ende gekommen. Innerhalb weniger Jahre gelang es den "Aufständischen Vieren" mit Tücke und Gewalt, die kaiserlichen Armeen zu besiegen, den Kaiser zu entthronen, und das Reich restlos unter sich aufzuteilen. Als einer der letzten Getreuen des nun verstorbenen Kaisers müsst Ihr untertauchen und Euch mit ein paar Verbündeten in die Berge absetzen. Ihr geratet an den Watzmann am Königssee, wo sich eine kleine Almhütte des Feindes mit Kühen befindet. An diesem entlegenen Ort wird man Euch wohl nicht nachstellen. Ihr werdet von der Hütte Besitz ergreifen und hofft, dass die Aktion keine Kreise zieht. Stockt dann Eure Vorräte auf. Die wilden Tiere stellen hier eine ernst zu nehmende Gefahr dar.
