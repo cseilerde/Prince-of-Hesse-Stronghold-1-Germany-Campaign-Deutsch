@@ -538,7 +538,7 @@ Nürnberg, August 1299. Der Aufstand der Salzburger ist niedergeschlagen. Doch d
 
 _**Kampagne V - Mission 67 - Die Schlacht auf dem Großen Arber**_
 
-Missionstext folgt in Kürze
+Großer Arber, Bayerischer Wald, Oktober 1300. Nachdem Ihr die Region um Nürnberg vom Feind gesäubert habt, ist es Zeit, dem König von Böhmen endgültig einen Riegel vorzuschieben. Ihr bewegt Euer Heer an die Reichsgrenze im Südosten. Euer Feind lässt nicht lange auf sich warten, passt Euch am Großen Arber ab und erringt eine vorteilhafte Position auf dem Berggipfel. Mit Mühe schiebt Ihr Eure Armee durch das trockene Unterholz. Es hat seit Wochen nicht geregnet. Als der Feind in Sichtweite gelangt, erkennt Ihr, dass Ihr stark in der Unterzahl seid. Fieberhaft sucht Ihr die Gegend nach günstigen Verteidigungspositionen ab. Nicht weit von Euch steht ein verfallener Turm, und hier und dort sind verlassene Jägersitze. Plötzlich erhaltet Ihr Kunde von einem verlassenen Lagerplatz mit Beständen von Lampenöl, das wohl der nicht mehr vorhandenen Hügelkapelle gedient haben muss. Lässt sich hieraus im trockenen Wald eine Brandmauer errichten? Nur verbrennt Euch nicht selbst!
 
 ![67](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/5c511cf1-06d3-4e5f-98e9-5065cefd78c9)
 
