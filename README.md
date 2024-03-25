@@ -498,7 +498,7 @@ Asseburg, Mai 1297. Das Hauptheer des Wolfs ist nun aufgerieben, trotz des Einsc
 
 _**Kampagne IV - Mission 62 - Hochverrat in Hohenzollern**_
 
-Missionstext folgt in Kürze
+Burg Hohenzollern, November 1297. Nach monatelanger Belagerung gelingt Euch endlich die Einnahme der Burg. Doch ein Gefangener verrät Euch, dass der Wolf sich schon vor Wochen mit einer Truppe von Reitern heimlich abgesetzt habe. Sofort sendet Ihr Erkundigungen in das gesamte Reich. Ihr erhaltet nach zwei Wochen schlechte Nachrichten aus dem Süden. Der Burgherr von Hohenzollern, der über eine mächtige Festungsanlage in Württemberg verfügt, kooperiere nun mit dem Papst und habe dem Wolf Asyl gewährt. Hochverrat! - im entscheidenen Moment Eurer Bewegung! Dies kann nicht geduldet werden. Sofort reist Ihr gen Süden, um Ordnung zu schaffen.
 
 ![62](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/9edfe6e9-0556-42bf-aa64-7efb7ebd34b1)
 
@@ -506,7 +506,7 @@ Missionstext folgt in Kürze
 
 _**Kampagne IV - Mission 63 - Der letzte Tyrann**_
 
-Missionstext folgt in Kürze
+Burg Hohenschwangau, Februar 1298. Schloss Hohenzollern wurde rechtmäßig von den Verrätern gesäubert. Doch erneut müsst Ihr zu Eurer großen Verwunderung erkennen, dass der Wolf nicht unter den Gefangenen war. Ein Bote kommt zu Euch und erklärt, ein schwer bewaffneter schwarzer Trupp sei an der Südgrenze des Reichs angetroffen worden, habe Burg Hohenschwangau besetzt, und die nahe gelegene Kleinstadt verwüstet. Sofort marschiert Ihr nach Süden und belagert die Burg. Euch gelingt die Einnahme des rechten Burgflügels, doch der Wolf hat sich auf dem gegenüberliegenden Turm verschanzt, welcher über einen geheimen unterirdischen Eingang verfügt. Zu allem Unglück werdet Ihr von dort nun beschossen und könnt Euch nicht wehren, da Euch beinahe alle Fernkämpfer abhanden gekommen sind. Worein seid Ihr hier nur geraten? Ihr müsst dringend den geheimen Zutrittsweg finden. Zieht Eure kleine Nachhut schnell zur Burg und sorgt dafür, dass der Wolf nun nicht mehr entkommt!
 
 ![63](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/116aacfc-0d28-4018-8476-e7db707e5633)
 
@@ -514,7 +514,7 @@ Missionstext folgt in Kürze
 
 _**Kampagne V - Mission 64 - Die schandbaren Söhne**_
 
-Missionstext folgt in Kürze
+Salzburg, Juni 1298. Als Ihr den Wolf tot zu Euren Füßen saht, glaubtet Ihr, die letzte Schlacht sei geschlagen. Doch die aufkommende Feierlaune wird getrübt, als Ihr hört, dass die mächtige Stadt Salzburg beschlossen habe, Euch nicht als zukünftigen Kaiser anzuerkennen, und im Begriff sei, sich vom Reich abzuspalten. Dies werdet Ihr schon deshalb nicht dulden, da Salzburg dem Reich noch hohe Geldbeträge schuldet. Ihr zieht daher alle verfügbaren Truppen aus dem Reich zusammen und marschiert gen Osten nach Salzburg, um die Festung Hohensalzburg einzunehmen, womit den Separationsbestrebungen ein Ende gesetzt werden dürfte. Doch als Ihr die Stadt erreicht, trifft die nächste Hiobsbotschaft ein. Die Söhne von Wolf, Schwein und Ratte, schandbare Gestalten, hätten sich zusammengerottet, um den Tod ihrer Väter zu rächen, und seien bereits im Anmarsch, um Euch bei Salzburg zu stellen. Wie viel Zeit bleibt Euch noch?
 
 ![64](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/f9fbe9cc-f9a0-44a6-815d-c8ad21edb745)
 
@@ -522,7 +522,7 @@ Missionstext folgt in Kürze
 
 _**Kampagne V - Mission 65 - Die Revanche der Separatisten**_
 
-Missionstext folgt in Kürze
+Burghausen, Juni 1299. Der Sieg gegen die Salzburger und die rebellischen Sähne hat Eure Machtstellung gestärkt. Doch die Salzburger geben sich nicht geschlagen. Wenige Wochen, nachdem in Salzburg Ruhe eingekehrt ist, erreicht Euch eine schlechte Nachricht: Diejenigen Salzburger, die geflohen waren, haben den König von Böhmen gegen Euch aufgewiegelt. Burg Burghausen, eine große Festungsanlage in Euren bayerischen Provinzen, stehe kurz vor einer Belagerung und brauche dringend Unterstützung. Ihr habt nur wenige Truppen übrig, doch reist Ihr sofort nach Burghausen. Auch die Böhmen werde ihre Lektion also lernen müssen! Als schon die Pfeile fliegen, gelingt es Euch gerade noch rechtzeitig, Eure Truppen in die Burg einzuschleusen. Bringt die Waffen aus der Waffenkammer noch schnell an jeden verfügbaren Mann!
 
 ![65](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/eec15b86-d7e2-41b5-9943-ab9820899b6b)
 
@@ -530,7 +530,7 @@ Missionstext folgt in Kürze
 
 _**Kampagne V - Mission 66 - Der übergriffige Nachbar**_
 
-Missionstext folgt in Kürze
+Nürnberg, August 1299. Der Aufstand der Salzburger ist niedergeschlagen. Doch der König von Böhmen hat die Niederlage in Burghausen eher als Affront aufgefasst. Er schickt sich an, noch größere Truppenkontingente gegen die Städte Eures Reichs zu senden. Soeben erfahrt Ihr, dass die Reichsstadt Nürnberg unter Belagerung durch eine große Armee Böhmens steht. Als Ihr mit Eurer schnellen Eingreiftruppe beim Schauplatz des Geschehens eintrefft, stehen Teile der Stadt schon in Flammen. Haltet die Stadt, verteidigt sie, und führt sie zu alter Stärke zurück!
 
 ![66](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/9b59d676-dfc5-403f-a19a-3004c7adc31c)
 
