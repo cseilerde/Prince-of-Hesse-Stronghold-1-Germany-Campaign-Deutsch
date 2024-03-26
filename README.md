@@ -2,15 +2,15 @@
 
 ![prinz von hessen](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/5975b102-bfcc-4eea-ab86-a043e6c43dce)
 
-Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Mir gefällt der Reifegrad strategischen Denkens, den Stronghold dem Spieler abverlangt, und noch mehr der Karteneditor, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
+Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Es verlangt einen hohen Reifegrad strategischen Denkens. Mir gefällt der Karteneditor sehr, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
 
-In Anerkennung der großartigen Werke, die viele Kartenersteller schon der Stronghold-Community übergeben haben, habe ich insgesamt 70 Missionen kreiert, in welchen das mittelalterliche Deutschland erobert werden kann. Meine Absicht dabei war, den Spielern einen Einblick in die Schönheit meines Heimatlandes Deutschland zu gewähren und die Vielfalt von Deutschlands Burgen zu erleben. 
+In Anerkennung der großartigen Werke, die viele Kartenersteller schon der Stronghold-Community überreicht haben, habe ich 70 Missionen kreiert, in welchen das mittelalterliche Deutschland erobert werden muss. Hierdurch wollte ich den Spielern einen Einblick in die Schönheit meines Heimatlandes Deutschland und die Vielfalt seiner Burgen gewähren.
 
-Die Komplexität dieses Projekts nahm mit der Zeit zu. Anfänglich wollte ich 20 Missionen erstellen, doch dann kamen immer weitere Ideen dazu, die ich dann in die Kampagne einarbeiten wollte. Die Arbeit an diesem Projekt hat sich über mehere Jahre hingezogen, mit Pausen zwischendrin. 
+Die Komplexität dieses Projekts nahm mit der Zeit zu. Anfänglich dachte ich an 20 Missionen, doch dann kamen immer weitere Ideen dazu, die ich dann in die Kampagne einarbeiten wollte. Die Arbeit an diesem Projekt hat sich über mehere Jahre hingezogen, mit Pausen zwischendrin. 
 
 Die Missionen gliedern sich in 5 Unterkampagnen und beinhalten dutzende naturgetreue Karten und viele originale deutsche Burgen, die gemäß ihres originalen Grundrisses in der Karte nachempfunden wurden. Die Missionen beinhalten auch fiktive Landschaften, die Deutschlands natürliche Szenerie abbilden.
 
-Auf "Sehr schwer" sind die meisten meiner Missionen schwierig zu bewältigen, aber schaffbar. Wie im Mittelalter setzt der Sieg oft voraus, dass man seine Burg klug baut und verteidigt.
+Auf "Sehr schwer" sind die meisten meiner Missionen nicht einfach zu bewältigen, aber schaffbar. Wie im Mittelalter setzt der Sieg oft voraus, dass man seine Burg klug baut und verteidigt.
 
 **Um alle 70 Karten herunterzuladen, bitte auf den grünen Button 'Code' und dann auf 'Download ZIP' klicken. Sodann die ZIP-Datei extrahieren und in den folgenden Ordner ablegen: C:\Users\[YOUR USER NAME]\Documents\Stronghold\Maps**
 
