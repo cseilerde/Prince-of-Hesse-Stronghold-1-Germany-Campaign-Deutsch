@@ -12,7 +12,7 @@ Die Missionen gliedern sich in 5 Unterkampagnen und beinhalten dutzende naturget
 
 Auf "Sehr schwer" sind die meisten meiner Missionen nicht einfach zu bewältigen, aber schaffbar. Wie im Mittelalter setzt der Sieg oft voraus, dass man seine Burg klug baut und verteidigt.
 
-**Um alle 70 Karten herunterzuladen, bitte auf den grünen Button 'Code' und dann auf 'Download ZIP' klicken. Sodann die ZIP-Datei extrahieren und in den folgenden Ordner ablegen: C:\Users\[YOUR USER NAME]\Documents\Stronghold\Maps**
+<span style="color: red"> **Um alle 70 Karten herunterzuladen, bitte auf den grünen Button 'Code' und dann auf 'Download ZIP' klicken. Sodann die ZIP-Datei extrahieren und in den folgenden Ordner ablegen: C:\Users\[YOUR USER NAME]\Documents\Stronghold\Maps** </span>
 
 **Unsere Reise durch das mittelalterliche Deutschland:**
 
