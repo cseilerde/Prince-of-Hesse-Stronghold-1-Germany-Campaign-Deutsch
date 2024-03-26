@@ -1,6 +1,6 @@
-![prinz von hessen](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/5975b102-bfcc-4eea-ab86-a043e6c43dce)
-
 ![German-small](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/73660a69-19a4-4452-9cda-f91c4efbf4ef)
+
+![prinz von hessen](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/5975b102-bfcc-4eea-ab86-a043e6c43dce)
 
 Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Mir gefällt der Reifegrad strategischen Denkens, den Stronghold dem Spieler abverlangt, und noch mehr der Karteneditor, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
 
