@@ -1,4 +1,4 @@
-Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Mir gefällt der Reifegrad strategischen Denkens, den Stronghold dem Spieler abverlangt, und noch mehr den Karteneditor, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
+Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Mir gefällt der Reifegrad strategischen Denkens, den Stronghold dem Spieler abverlangt, und noch mehr der Karteneditor, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
 
 In Anerkennung der großartigen Werke, die viele Kartenersteller schon der Stronghold-Community übergeben haben, habe ich insgesamt 70 Missionen kreiert, in welchen das mittelalterliche Deutschland erobert werden kann. Meine Absicht dabei war, den Spielern einen Einblick in die Schönheit meines Heimatlandes Deutschland zu gewähren und die Vielfalt von Deutschlands Burgen zu erleben. 
 
