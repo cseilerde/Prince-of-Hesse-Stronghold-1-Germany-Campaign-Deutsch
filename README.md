@@ -18,7 +18,7 @@ Auf "Sehr schwer" sind die meisten meiner Missionen nicht einfach zu bewältigen
 
 **Unsere Reise durch das mittelalterliche Deutschland:**
 
-![image](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/1d426b1c-d167-4172-8b3f-70a7e8da5775)
+![german map](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/f8d0f686-6bce-41e0-a8b9-225e4a2d091a)
 
 ---
 
