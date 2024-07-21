@@ -1,5 +1,7 @@
 ![German-small](https://github.com/cseilerde/Prince-of-Hesse-Stronghold-1-Germany-Campaign-Deutsch/assets/152847215/73660a69-19a4-4452-9cda-f91c4efbf4ef)
 
+Prinz von Hessen - Deutschlandkampagne
+
 Stronghold ist nicht nur irgend ein Spiel. Es ist eines der besten und beliebtesten Strategiespiele aller Zeiten. Es verlangt einen hohen Reifegrad strategischen Denkens. Mir gefällt der Karteneditor sehr, der es möglich macht, Karten bis ins kleinste Detail zu gestalten und in ihnen die Schönheit der Natur abzubilden. 
 
 In Anerkennung der großartigen Werke, die viele Kartenersteller schon der Stronghold-Community überreicht haben, habe ich 70 Missionen kreiert, in welchen das mittelalterliche Deutschland erobert werden muss. Hierdurch wollte ich den Spielern einen Einblick in die Schönheit meines Heimatlandes Deutschland und die Vielfalt seiner Burgen gewähren.
